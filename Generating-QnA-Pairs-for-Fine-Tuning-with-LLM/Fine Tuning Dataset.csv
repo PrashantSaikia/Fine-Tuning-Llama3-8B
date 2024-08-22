@@ -1,0 +1,2825 @@
+Context,Question,Answer
+"mission and vision
+Below are the key milestones the team is working towards.  Baselined as at March 2023
+Reference Information
+File Storage =
+Google Drive For Objective Files
+Confluence
+Improve Business Operations Minutes
+JIRA Boards = Link to be added
+Operating Model =
+Confluence Home Page For IOG Operating Model
+Slack Channel =
+https://input-output-rnd.slack.com/archives/C05266AA5U1
+The plan is mastered in Jira and is visible via the
+Dashboard
+.","What is the primary tool used for improving business operations and accessing the team's milestones, operating model, and Jira dashboard?","The primary tool used for improving business operations and accessing the team's milestones, operating model, and Jira dashboard is Confluence. Confluence is a collaboration platform that allows teams to create, share, and collaborate on content. It is used to store reference information, improve business operations minutes, and access the team's operating model. Additionally, Confluence is linked to Jira, which is used to manage the team's milestones and is visible via the Jira dashboard. Google Drive is also used for file storage for objective files. The Slack channel is used for communication and collaboration."
+"Driver
+@ mention the driver
+Approver
+@ approver
+Contributors
+@ contributors
+Informed
+@ stakeholders
+Objective
+Summarize the objective in 1-2 sentences
+Due date
+Type // to add a date
+Key outcomes
+List expected outcomes and success metrics
+Status
+/
+/
+Problem Statement
+Describe the problem and its impact. Include the hypothesis that's driving your work (""We think X will do Y, and we'll know we've succeeded if Z"").
+Scope
+Must have:
+Add your project's core requirements
+Nice to have:
+Add anything you want but don't strictly need
+Not in scope:
+Add anything you don't want to include
+Timeline
+Type /planner to create a visual roadmap and help your team stay on track. To edit workstreams or dates, select the placeholder below and tap the pencil icon.
+Type /trello to add a card or board to this page or /jira to include a Jira issue, chart, or project.
+Milestones and deadlines
+Milestone
+Owner
+Deadline
+Status
+e.g., Finalize designs for v1
+@ owner
+Type // to add a date
+Reference materials
+Add links to relevant research and any other key documents","What is the objective, problem statement, and scope of this project, and what are the key outcomes and success metrics?","Objective: The objective of this project is to summarize the objective in 1-2 sentences.
+        
+        Problem Statement: The problem statement of this project is to describe the problem and its impact. Include the hypothesis that's driving your work (""We think X will do Y, and we'll know we've succeeded if Z"").
+        
+        Scope: The scope of this project includes the core requirements, anything you want but don't strictly need, and excludes anything you don't want to include.
+        
+        Key Outcomes and Success Metrics: The key outcomes and success metrics of this project are expected outcomes and success metrics."
+"Attendees
+Gerard Moroney
+Tamara Haasen
+Lawrence Clark
+James Martin-Young
+Samuel Field
+Abbi Ogunlade
+Carlos Vargas-Montero
+Deck Presented
+Actions and Notes from the meeting:
+Statuses updated as of 2nd May 2023
+Action
+Owner
+Due by
+Status
+Due to the overlap/dependencies between Operations and the work that Tamara/Carlos are doing, Carlos is to be included in all future meetings.
+Ger
+4 Apr
+Done
+Carlos to send workstream invitations to Ger and Lawrence
+Carlos
+7 Apr
+Done
+Confluence page for Operations and Improve Business Operations to be setup
+LC
+7 Apr
+Done
+PI Actions are improvement actions following a PI Event.  AO to review how the Flow Ofiice can improve the PI event to increase delivery
+AO
+27 Apr
+Done
+New dependency process is live and Tribes are following it.  More work is needed with the Shared Services to ensure they deliver back to the tribes.
+Update 2nd May 2023
+: shared services Shared Service deck review due by 15 May and meeting with Shared Services & tribes scheduled for the 19 May
+AO
+19 May
+Done
+Inter tribe and chapter dependency process is not clear.  LC to work with AO to clarify process
+AO
+21 Apr
+Done
+TH asked for clarity from GM/LC as to who, in the tribe leadership, is accountable for the structure of the tribe.   Doc to be discussed with Carlos.
+eg the Head of Delivery or the full leadership team?
+LC
+21 Apr
+Done
+TH asked for clarity as to what the difference is between the VP of and General Manager roles.  Previous documentation was created on this.  LC to review and update then present to GM/TH.
+Notes: to include a RACI model, VP = deliver over multiple tribes, GM = CEO of future company
+LC
+21 Apr
+Done
+TH has asked for clarity as to how Chaperts work today.   LC to find deck and discuss with Carlos.  Carlos to document how Chapters would work when tribes spinout.
+Note: the Chapter lead of Cryptography, there are discussion underway to move this person into Midngiht.  However, should they remain in role, should they move to new role, should we backfill.  LC to work with Carlos to help provide guidance
+Update 2nd May 2023:
+In-backlog and de-prioritised
+LC
+21 Apr
+Done
+AO provide overview of how the Flow Office are improving the planning process.  AO to send PI Planning process/improvement to Carlos/Tamara.
+Note: when a tribe spinsout, should they continue with PI Planning.  LC to provide guidance to Carlos
+AO
+19 May
+Done
+Carlos to setup meeting with Ger and Lawrence to bring them up to speed with the work Tamara/Carlos have underway in their workstream
+CVM
+21 Apr
+Done
+Tamara would like more clarity on the work being carried out by the Shared Servcies.  for example, Legal has become a key area all tribes are dependant on.  LC to collate list of know work in Jira and send to GM.  GM to discuss with TH
+Update 2nd May 2023:
+expanded for LC to look at the connection between Legal & Procurement in terms of ticket (task) transfers between the teams
+LC
+7 May
+Done
+LC to speak with Legal Operations to understand the Legal department current workload
+LC
+21 Apr
+Done
+In relation to the management of dependencies, the Heads of Delivery are not collaborating between tribes ensuring dependencies are managed/delivered/mitigated.  The Heads of Delivery should be made responsible for dependencies.
+KPI’s should be introduced linked to end of year performance
+The new VP of roles should be responsible for managing inter-tribe dependencies.
+Update 2nd May 2023:
+LC working with Abbi and new VP’s to setup appropriate meetings (SoS) to discuss and agree dependencies. LC shared cross tribe dependency & continue to monitor
+LC
+21 Apr
+Done
+Note: the Head of Delivery for Midnight should report into the CEO, and received support from Operations to ensure alignment to methodologies, policies and procedures.  Currently Marta reports into Romain.  LC to follow up on change
+LC
+28 Apr
+Done
+Note: TH updated all that RealFI will be created.  There is still a question as to what should be done with the Education DID tribe (MOE).  LC to discuss with Carlos, who will update Tamara
+LC
+7 Apr
+Done
+It has been agreed that the Education team will merge into the Ecosystem team.  LC to help achieve this.
+Note: Tim is aware of this and Lars is in agreement with his change of reporting line into Tim.
+Update 2nd May 2023:
+GM to update the process document
+GM
+28 Apr
+Done
+It has been agreed that Events will merge in with Marketing.  A delivery person will be needed to support and they should report into Ger.  LC to support the migratoin
+LC
+28 Apr
+Done
+Note:
+Benjamin Crepin
+i would like to track these in Jira.  let's discuss the best way of doing this.","""What are the key action items and updates related to the roles, responsibilities, and dependencies among the Heads of Delivery, VP, General Manager, and the new VP roles, as well as the merging of teams and the introduction of KPIs for managing inter-tribe dependencies?""","Key action items and updates related to the roles, responsibilities, and dependencies among the Heads of Delivery, VP, General Manager, and the new VP roles, as well as the merging of teams and the introduction of KPIs for managing inter-tribe dependencies, include:
+
+* Carlos is to be included in all future meetings due to the overlap/dependencies between Operations and the work that Tamara/Carlos are doing.
+* Carlos is to send workstream invitations to Ger and Lawrence.
+* A Confluence page for Operations and Improve Business Operations is to be setup.
+* PI Actions are improvement actions following a PI Event. AO is to review how the Flow Office can improve the PI event to increase delivery.
+* New dependency process is live and Tribes are following it. More work is needed with the Shared Services to ensure they deliver back to the tribes.
+* TH asked for clarity from GM/LC as to who, in the tribe leadership, is accountable for the structure of the tribe. A document is to be discussed with Carlos.
+* TH asked for clarity as to what the difference is between the VP of and General Manager roles. LC is to review and update then present to GM/TH.
+* TH has asked for clarity as to how Chapters work today. LC is to find deck and discuss with Carlos. Carlos is to document how Chapters would work when tribes spinout.
+* AO is to provide an overview of how the Flow Office are improving the planning process. AO is to send PI Planning process/improvement to Carlos/Tamara.
+* Carlos is to setup a meeting with Ger and Lawrence to bring them up to speed with the work Tamara/Carlos have underway in their workstream.
+* Tamara would like more clarity on the work being carried out by the Shared Services. LC is to collate a list of known work in Jira and send to GM. GM is to discuss with TH.
+* LC is to speak with Legal Operations to understand the Legal department current workload.
+* The Heads of Delivery are not collaborating between tribes ensuring dependencies are managed/delivered/mitigated. The Heads of Delivery should be made responsible for dependencies. KPIs should be introduced linked to end of year performance.
+* The new VP of roles should be responsible for managing inter-tribe dependencies.
+* LC is working with Abbi and new VP’s to setup appropriate meetings (SoS) to discuss and agree dependencies.
+* The Education team will merge into the Ecosystem team. LC is to help achieve this.
+* The Head of Delivery for Midnight should report into the CEO, and receive support from Operations to ensure alignment to methodologies, policies and procedures.
+* Events will merge in with Marketing. A delivery person will be needed to support and they should report into Ger. LC is to support the migration.
+* Benjamin Crepin would like to track these in Jira. A discussion is needed to determine the best way of doing this."
+"mission and vision
+Below are the key milestones the team is working towards.  Baselined as at March 2023
+Reference Information
+File Storage =
+Google Drive For Objective Files
+Confluence
+Improve Business Operations Minutes
+JIRA Boards = Link to be added
+Operating Model =
+Confluence Home Page For IOG Operating Model
+Slack Channel =
+https://input-output-rnd.slack.com/archives/C05266AA5U1
+The plan is mastered in Jira and is visible via the
+Dashboard
+.","What is the primary tool used for improving business operations and accessing the team's milestones, operating model, and Jira dashboard?","The primary tool used for improving business operations and accessing the team's milestones, operating model, and Jira dashboard is Confluence. Confluence is a collaboration platform that allows teams to create, share, and collaborate on content. It is used to store reference information, improve business operations minutes, and access the team's operating model. Additionally, Confluence is linked to Jira, which is used to manage the team's milestones and is visible via the Jira dashboard. Google Drive is also used for file storage for objective files. The Slack channel is used for communication and collaboration."
+"Attendees
+Gerard Moroney
+Tamara Haasen
+Lawrence Clark
+James Martin-Young
+James Thornton
+Abbi Ogunlade
+Carlos Vargas-Montero
+Edwin Iraheta
+Giuseppe Pancione
+Benjamin Crepin
+Deck Presented
+Actions and Notes from the Meeting:
+Updated status as of 2nd May 2023
+ID
+Action
+Owner
+Due by
+Status
+1
+Sam to present to Ger & Lawrence his progress on the various milestones.
+Lawrence to book in the meeting for the 18th April.
+Lawrence
+18/04/2023
+Done
+✔
+2
+Ger to host a data analytics kick-off meeting on Friday with relevant stakeholders (including Sam Fields)
+Gerard
+21/04/2023
+Done
+✔
+3
+Lawrence to discuss the “product strategy & planning” with Dynal and how to structure it. LC to validate the approach and to discuss the various dependencies with Dynal, such as: TH on spinout decisions & Ops on PI decisions
+Lawrence
+21/04/2023
+Done
+✔
+4
+Ger & Tam to have a meeting this week to discuss Legal operations
+Gerard
+21/04/2023
+Done ✔
+5
+GM & TH to have a meeting with Joel about Legal operations.
+Update 2nd May 2023
+: Mtg held but more is needed to support Legal, this will be discussed during the Colorado meeting w/c 15 May
+Gerard
+21/04/2023
+Done
+✔
+6
+New meeting to be arranged with Research to ensure they’re aware and trained on the new Operating Model, and potentially identify further training needs
+Update 2nd May 2023
+: Last week meeting was cancelled by Research so LC is trying to re-arrange a meeting  for this week.
+Lawrence
+21/04/2023
+Done
+✔
+7
+For Key Result 1 (
+To continuously iterate & improve the Operating Model by capturing best practices, testing, and implementing improvements to suit the needs of IOG
+) Abbi to put together key metrics. Draft to be presented to Lawrence by Friday.
+Update 2nd May 2023
+: slides were presented during the meeting on 2nd May 2023.
+Abbi
+21/04/2023
+Done ✔
+8
+For Key Result 2 (
+Implementation of the Operating Model (including PI Planning) to Midnight, Research Ecosystem , ICT & Cyber Security and Operations
+):
+Abbi to create a slide showing the timeline and process of the journey we’re currently in and when this will be done.
+?
+28/04/2023
+Done
+9
+For Key Result 3 (
+Measure compliance to process through a data driven metrics including a company wide maturity assessment.
+): JMY & Lawrence to create a presentation for next week
+JMY & Lawrence
+28/04/2023
+Done
+10
+For Key Result 5 (
+improvement work packages for business improvement initiatives related to I.T, Education, Data analytics, Data architecture etc and execute improvements
+): Showcase the Jira output per service
+Lawrence
+28/04/2023
+Done
+11
+Need to gather consensus around the transition to a new Head of Delivery
+Gerard
+28/04/2023
+Done
+12
+Create an agreement on the reporting lines for Midnight, especially for Martha at this stage to have a dotted reporting line to TH
+Lawrence
+28/04/2023
+Done
+13
+Carlos to share the objective criteria (from the acceptance criteria) for the spin-outs
+Carlos
+28/04/2023
+Done
+14
+TH highlighted that Tim has a good ecosystem strategy, but that he might need support from an Ops Person to help execute it. Resource request has been raised.
+Update 2nd May 2023
+: To be discussed w/c 15th May
+Gerard
+28/05/2023
+Done
+15
+Agile draft maturity model, JMY to liaise with Can to discuss the best possible roll-out plan.
+JMY
+28/04/2023
+Done
+16
+JH to work on the shared services agile maturity assessment and the various levels
+JH
+28/04/2023
+Done
+17
+We need to educated tribes about engaging with Legal & Procurement earlier in the process
+Update 2nd May 2023
+:
+LC to work with tribes and Legal on contract process. LC to bring Xavier Sanchez into the process
+Success = aligned work items Proc/Legal
+Lawrence
+28/05/2023
+Done
+Note:
+Benjamin Crepin
+i would like to track these in Jira.  let's discuss the best way of doing this.","""What is the current status of the various action items assigned to the attendees, as of May 2nd, 2023, in relation to the updates on the operating model and the progress of the milestones?""","Action Item 1: Sam to present to Ger & Lawrence his progress on the various milestones. Status: Done.
+        Action Item 2: Ger to host a data analytics kick-off meeting on Friday with relevant stakeholders (including Sam Fields). Status: Done.
+        Action Item 3: Lawrence to discuss the “product strategy & planning” with Dynal and how to structure it. Status: Done.
+        Action Item 4: Ger & Tam to have a meeting this week to discuss Legal operations. Status: Done.
+        Action Item 5: GM & TH to have a meeting with Joel about Legal operations. Status: Done.
+        Action Item 6: New meeting to be arranged with Research to ensure they’re aware and trained on the new Operating Model. Status: Done.
+        Action Item 7: Abbi to put together key metrics for Key Result 1. Status: Done.
+        Action Item 8: Abbi to create a slide showing the timeline and process of the journey we’re currently in for Key Result 2. Status: Done.
+        Action Item 9: JMY & Lawrence to create a presentation for next week for Key Result 3. Status: Done.
+        Action Item 10: Showcase the Jira output per service for Key Result 5. Status: Done.
+        Action Item 11: Need to gather consensus around the transition to a new Head of Delivery. Status: Done.
+        Action Item 12: Create an agreement on the reporting lines for Midnight, especially for Martha at this stage to have a dotted reporting line to TH. Status: Done.
+        Action Item 13: Carlos to share the objective criteria (from the acceptance criteria) for the spin-outs. Status: Done.
+        Action Item 14: TH highlighted that Tim has a good ecosystem strategy, but that he might need support from an Ops Person to help execute it. Status: To be discussed w/c 15th May.
+        Action Item 15: Agile draft maturity model, JMY to liaise with Can to discuss the best possible roll-out plan. Status: Done.
+        Action Item 16: JH to work on the shared services agile maturity assessment and the various levels. Status: Done.
+        Action Item 17: Educate tribes about engaging with Legal & Procurement earlier in the process. Status: LC to work with tribes and Legal on contract process."
+"Reference Information
+ERS Executive Dashboard
+=
+Link
+File Storage =
+Google Drive For Objective Files
+Confluence
+Improve Business Operations Minutes
+JIRA Boards =
+https://input-output.atlassian.net/jira/software/c/projects/OKR/boards/1147?search=okr
+Operating Model =
+Confluence Home Page For IOG Operating Model
+Slack Channel =
+https://input-output-rnd.slack.com/archives/C05266AA5U1
+The plan is mastered in Jira and is visible via the
+Dashboard
+.","How can the ERS Executive Dashboard be used to monitor the progress of the Improve Business Operations project, which has its plan mastered in Jira and its minutes recorded in Confluence?","To monitor the progress of the Improve Business Operations project using the ERS Executive Dashboard, follow these steps:
+
+1. Access the ERS Executive Dashboard using the provided link.
+2. Locate the ""JIRA Boards"" section on the dashboard.
+3. Click on the link provided in the ""JIRA Boards"" section, which will take you to the Jira board for the OKR project.
+4. Once in Jira, you can view the plan for the Improve Business Operations project and monitor its progress.
+5. To view the minutes recorded for the Improve Business Operations project, navigate to Confluence using the provided link.
+6. On the Confluence home page, locate the Improve Business Operations project page and view the recorded minutes.
+
+By following these steps, you can effectively use the ERS Executive Dashboard to monitor the progress of the Improve Business Operations project, which is mastered in Jira and has its minutes recorded in Confluence."
+"Decision Reference
+Decision Title
+Decision Type
+/
+/
+Tribe
+Squad
+Status
+/
+/
+Impact
+/
+/
+Contributors
+@
+Submitted by
+@
+Date Submitted
+19 May 2022
+Due Date
+19 May 2022
+Approver
+@
+Outcome
+Relevant data
+Include any links to further information / documentation.
+Exec Summary
+Background
+Options considered
+Include any links to further information / documentation.
+Option 1
+Option 2
+Description of options considered
+Pros and Cons
+Notes
+Recommendation
+Financial Data
+Budget Allocated
+Actual Spend to Date
+Budget Amendment Amount
+Current Forecasted Budget
+New Forecasted Budget
+Budget Variance
+Yearly Breakdown
+2022 -
+2023 -
+2024 -
+2025 -
+2026 -
+Can this request be managed within the remaining budget?
+Link to projection costs spreadsheet
+Next Steps
+Approved by Tribe
+/
+Approval Date by Tribe
+19 May 2022
+Decision Forum Required
+/
+/
+/
+/
+Date Sent to Decision Forum
+19 May 2022
+Decision Owner
+@
+Action items
+Add action items to close the loop on open questions or concerns.
+Type your task here. Use ""@"" to assign a user and ""//"" to select a due date.
+Outcome
+Summarize the outcome.","""Given the budget variance and projected costs, how will the new forecasted budget for the upcoming years impact the current spending?""","The new forecasted budget for the upcoming years will increase the current spending due to the budget variance and projected costs. The budget variance is the difference between the actual spend to date and the budget allocated, which is currently negative. The projected costs are also higher than the budget allocated, further increasing the spending. The new forecasted budget attempts to account for these increases, but it is unclear by how much without referring to the linked projection costs spreadsheet. It is also unclear whether this request can be managed within the remaining budget. Therefore, the impact on current spending is likely to be significant, but the exact amount cannot be determined without additional information."
+"<iframe title=""Portfolio Roadmap"" width=""1140"" height=""541.25"" src=""
+https://app.powerbi.com/reportEmbed?reportId=b3ec8fe6-f1b8-475b-ba4b-81b4ce51a952&appId=73cc2a31-4860-4be1-b051-4d80fe41cd29&autoAuth=true&ctid=93fcf5dd-377a-4776-bcbe-e2231a8cf46e%22
+frameborder=""0"" allowFullScreen=""true""></iframe>",What key performance indicators (KPIs) are visualized in the Portfolio Roadmap dashboard and what do they reveal about the project's progress?,"The Portfolio Roadmap dashboard visualizes several key performance indicators (KPIs) that provide insights into the project's progress. Here are the KPIs and their significance:
+
+        1. **Project Status**: This KPI indicates the current state of each project, such as 'On Track', 'At Risk', or 'Off Track'. It helps stakeholders quickly understand the overall health of the project portfolio.
+
+        2. **Start and End Dates**: The start and end dates for each project are visualized, providing a clear timeline for project delivery. Any delays or changes to these dates can be easily identified and addressed.
+
+        3. **Progress Bars**: Progress bars show the completion status of each project. They reveal the percentage of work completed and the amount of work remaining, helping stakeholders assess the project's progress.
+
+        4. **Planned vs. Actual**: This KPI compares the planned timeline with the actual progress of each project. Any discrepancies can indicate potential issues or delays, prompting further investigation.
+
+        5. **Resource Allocation**: The dashboard may also visualize how resources are allocated across projects. This can help stakeholders identify any imbalances or bottlenecks and make necessary adjustments.
+
+        6. **Risks and Issues**: The dashboard might include a section for visualizing risks and issues associated with each project. This can help stakeholders anticipate and mitigate potential problems.
+
+        7. **Budget vs. Spend**: This KPI compares the planned budget with the actual spending for each project. It can reveal any cost overruns or underspends, helping stakeholders manage project finances effectively.
+
+        These KPIs, when viewed together in the Portfolio Roadmap dashboard, provide a comprehensive view of the project's progress, enabling stakeholders to make informed decisions and take timely actions."
+,In the context of,"Context:
+        The 2016 Summer Olympics, officially known as the Games of the XXXI Olympiad, are a major international multi-sport event in the tradition of the Olympic Games, as governed by the International Olympic Committee (IOC). They are being held in Rio de Janeiro, Brazil, from 5 to 21 August 2016.
+
+        In the context of, what are the Games of the XXXI Olympiad?
+
+        The Games of the XXXI Olympiad are the 2016 Summer Olympics."
+,In the context of,"Context:
+        The 2016 Summer Olympics in Rio de Janeiro, Brazil, were the first games to feature two new sports: golf and rugby sevens. The games were held from August 5 to August 21, 2016. The United States topped the medal count with 121 total medals, including 46 golds. China finished second with 70 total medals, 26 of which were gold. Great Britain finished third with 67 total medals, 27 of which were gold.
+
+        Question: In the context of which country topped the medal count at the 2016 Summer Olympics in Rio de Janeiro, Brazil?
+
+        Answer: The United States topped the medal count at the 2016 Summer Olympics in Rio de Janeiro, Brazil with a total of 121 medals, including 46 golds."
+Context,Question,Answer
+"Objective one focuses on refining our role within the Cardano Ecosystem. We still have an enormous amount of work to do, for example:
+CIP 1694
+The transition work on Intersect
+Aligning the product portfolio to become an elite engineering company as IO Infrastructure
+And many ambitious research priorities…
+Objective two
+focuses on our current web 3 portfolio - something we’re calling ‘Portfolio Zero.’ There's enormous effort that's gone into this portfolio and we’re preparing each entity to become its own company.
+Objective three sets us up to do this forever. It’s about building a Venture Studio that has the capacity to spin out portfolios on an annualized basis - growing new codes, and taking advantage of these ecosystems that we've constructed.
+To enable that, we need objective four: great internal systems, procedures, and operations. We have a dedicated focus on evolving our business operations to meet these needs, and we're already making great progress.
+Last but not least, objective five is all about our people and culture. We are focused on preserving, protecting, and growing our people so that they're great partners in this journey.","""How do the objectives of refining the role within the Cardano Ecosystem, preparing the current web 3 portfolio for independence, building a Venture Studio, improving internal systems and procedures, and focusing on people and culture contribute to the long-term growth and success of the organization?""","The five objectives contribute to the long-term growth and success of the organization by focusing on different aspects of the business. Objective one, refining the role within the Cardano Ecosystem, ensures that the organization is aligned with the broader ecosystem and can effectively leverage its resources. This includes work on CIP 1694 and the transition of Intersect, as well as aligning the product portfolio to become an elite engineering company. Objective two, preparing the current web 3 portfolio for independence, involves preparing each entity to become its own company, which can lead to increased autonomy and growth. Objective three, building a Venture Studio, enables the organization to spin out portfolios on an annualized basis, which can lead to new revenue streams and a diversified portfolio. Objective four, improving internal systems and procedures, focuses on evolving business operations to meet the needs of the organization, which can lead to increased efficiency and scalability. Objective five, focusing on people and culture, ensures that the organization has a strong foundation of talented and motivated individuals who can drive growth and innovation in the long-term. Together, these objectives provide a comprehensive approach to long-term growth and success."
+Context,Question,Answer
+"Objective one focuses on refining our role within the Cardano Ecosystem. We still have an enormous amount of work to do, for example:
+CIP 1694
+The transition work on Intersect
+Aligning the product portfolio to become an elite engineering company as IO Infrastructure
+And many ambitious research priorities…
+Objective two
+focuses on our current web 3 portfolio - something we’re calling ‘Portfolio Zero.’ There's enormous effort that's gone into this portfolio and we’re preparing each entity to become its own company.
+Objective three sets us up to do this forever. It’s about building a Venture Studio that has the capacity to spin out portfolios on an annualized basis - growing new codes, and taking advantage of these ecosystems that we've constructed.
+To enable that, we need objective four: great internal systems, procedures, and operations. We have a dedicated focus on evolving our business operations to meet these needs, and we're already making great progress.
+Last but not least, objective five is all about our people and culture. We are focused on preserving, protecting, and growing our people so that they're great partners in this journey.","""How do the objectives of refining the role within the Cardano Ecosystem, preparing the current web 3 portfolio for independence, building a Venture Studio, improving internal systems and procedures, and focusing on people and culture contribute to the long-term growth and success of the organization?""","The five objectives contribute to the long-term growth and success of the organization by focusing on different aspects of the business. Objective one, refining the role within the Cardano Ecosystem, ensures that the organization is aligned with the broader ecosystem and can effectively leverage its resources. This includes work on CIP 1694 and the transition of Intersect, as well as aligning the product portfolio to become an elite engineering company. Objective two, preparing the current web 3 portfolio for independence, involves preparing each entity to become its own company, which can lead to increased autonomy and efficiency. Objective three, building a Venture Studio, enables the organization to spin out portfolios on an annualized basis and take advantage of the ecosystems it has constructed, leading to new opportunities and growth. Objective four, improving internal systems and procedures, focuses on evolving business operations to meet the needs of the organization, which can lead to increased efficiency and scalability. Finally, objective five, focusing on people and culture, ensures that the organization has a strong foundation of talented and engaged individuals who can drive its success in the long term. By addressing these different areas, the organization can create a well-rounded and sustainable strategy for long-term growth and success."
+"Our 2023 objectives contained some incredibly ambitious stretch goals. We were able to deliver most of the core objectives, largely down to our collective hard work, but also down to the quarterly planning and review rhythm and structure that we’re now operating within.
+Let’s take a look at the 2023 objectives:
+Objective 1 - Execute the Cardano Transition
+Focus our ongoing work under four key goals:
+Consent
+- hold and win the vote to ratify the era of Voltaire Governance.
+Consistency
+- to build an independent development engine capable of ensuring the same high levels of performance.
+Clarity
+- ensuring at all time throughout the transition that the whole Cardano community understands where we are going and how they contribute.
+Decentralization
+- achieve a new level of decentralization, making Cardano the most decentralized blockchain according to the EDI Index.
+Objective 2 - Align our Product Portfolio Strategy
+Align our product portfolio to our future vision. Ensure our products have strategies that are cohesive with other IOG products and have a clear pathway to success.
+Objective 3 - Drive Investment in IO Subsidiaries
+We will set up investment vehicles to finance opportunities within the current IO portfolio and the future venture studio opportunities.
+Objective 4 - IO becomes and Parent Company
+IO transitions into a company capable of managing various subsidiaries and evolving shared services and all capabilities.
+Objective 5 - Improve Business Operations
+We will build an advanced, data driven operating model, facilitating agile innovation and delivery.
+Objective 6 - People and Resourcing
+As we embark on a year of change, our main priority will be to support our people and equip our line managers with the skills and knowledge to keep people informed and engaged as we move from “The Cardano Company” to a parent company and an innovation factory.","Which objective focuses on achieving a new level of decentralization for the Cardano blockchain, according to the EDI Index?","Objective 1, Decentralization, focuses on achieving a new level of decentralization for the Cardano blockchain, according to the EDI Index."
+"Launch Current Portfolio Into Ventures
+In 2024, we will continue to launch the current portfolio (Portfolio Zero) into fully fledged ventures through a gated and supported spinout process. As a venture moves through each of these phases, they develop in each of the areas seen below.
+As companies move from left to right, our commercial horizon will change. Firstly, some of the ideas we may have thought were the best ideas in the entire world, turn out not to be, so we shut them down. On the other hand, we might realize some initiatives are very similar to others, so we merge them together.
+Sometimes it’s not about making money - it’s about securing or protecting something. Or, if it's a core piece of infrastructure we’ll open source it.
+Other times, we make linear progress. When an idea is ‘fully realized’ and it’s self-sustaining, we've left behind an institution unto itself.
+Every now and then, something will move back from right to left if we discover new information, or we realize that our business hypothesis isn't true.
+It's a dynamic, creative, and flowing process, but it creates a lot of value as you start moving towards step 5. There's a huge multiple of value creation because you have real customers, real commercial models, liquidity, external investors, and a really good product market fit.
+We’ll always be thinking about our portfolio alignment. These aren't just independent siloed ideas - they're part of a larger web, and if we get our web just right, we make money for each other.
+Attract Investment
+We’re in a privileged position where we can be particular on who we invest with; and we’re prioritizing smart capital from strategic investors from different sources to diversify participation.
+We’ve invested in additional talent to support this objective, who will focus on expanding our investment network and raise awareness of our portfolio companies through strategic marketing intelligence. They’ll ensure we align our investment pitches with the new IOG corporate strategy.
+Pilot Venture Governance and Servicing Approach
+As ventures make their way through the process, we’ll always be learning, improving, and refining things. This will be the foundation to inform the design for our venture studio with a web3 focus. The definition of our long term relationships with web3-launched-ventures will be central to this sub objective, as well as taking an integrated approach to portfolio management.",How does the gated and supported spinout process for launching the current portfolio into fully fledged ventures contribute to the creation of value and alignment of the portfolio companies as a larger web?,"The gated and supported spinout process for launching the current portfolio into fully fledged ventures contributes to the creation of value and alignment of the portfolio companies as a larger web by providing a dynamic, creative, and flowing process that moves companies from left to right, starting with initial ideas and progressing towards fully realized, self-sustaining institutions. This process involves making strategic decisions such as shutting down non-viable ideas, merging similar initiatives, securing or protecting critical infrastructure, and making linear progress towards commercialization. The process also allows for companies to move back from right to left if new information or a change in business hypothesis requires it.
+        As companies move towards step 5, there is a significant multiple of value creation due to real customers, commercial models, liquidity, external investors, and a strong product-market fit. The process also emphasizes the importance of portfolio alignment, with companies viewed as part of a larger web rather than independent siloed ideas.
+        Additionally, the company is prioritizing smart capital from strategic investors from different sources to diversify participation and has invested in additional talent to support this objective. This talent will focus on expanding the investment network and raising awareness of portfolio companies through strategic marketing intelligence, ensuring that investment pitches align with the new IOG corporate strategy.
+        The company will also pilot a venture governance and servicing approach as ventures make their way through the process, continuously learning, improving, and refining things. This will inform the design for a venture studio with a web3 focus and define long-term relationships with web3-launched-ventures, taking an integrated approach to portfolio management."
+"Explore the IOG Venture Studio Design and Strategy
+By focusing our future Venture Studio on web 3 - we’re leaning into our strengths. Objective one will pilot venture governance, and objective three (this objective) will build it.
+It’ll be a modular IOG corporate strategy that explores different things such as mergers and acquisitions, partnerships, or even acquiring a web3 Venture Studio that's already in the market.
+Ecosystem Thinking
+As one of our competitive advantages, we’re building an ‘ecosystem view.’ There's a lot of siloing in this organization, so we will build an advanced collaboration model that's going to work with the customer at the center of it.
+Exponential Organization
+There are many different perspectives one can take to view IOG. Let’s get oriented.
+This view shows us how we stage the growth of the company. This is a single functional view, and as we go through this journey we’ll develop other views on things like capability, accountability, and governance. Thinking of ourselves as an integration engine brings us together to work seamlessly as a strategic operations function.
+We want to make things small so we have really agile and accountable groups, facilitated by that form and function. When we pull structures apart in the right way, they produce emergent value to each other.
+Where do you go if you want to build a Venture Studio? Well, you need a hub!
+About 90% of the world's venture capital and startups sit in such hubs. A hub liberates you to build a campus in a place that maximizes lifestyle. As we get deeper into the year, we'll start exploring places for the idea and protocols to be grown - kind of like our own
+Bell Labs
+.
+It’s not a priority for this year, but we're committed to this model. Hopefully, it will inspire entire generations of people who go through it. It’ll be our legacy as an organization, and the nerve center upon which we innovate.
+The New IOG Brand
+In terms of the IOG brand, this year we’re prioritizing getting really clear about the identity of the company. We want to have a crystalized image of who we are, we want to consistently honor that image in all our communications (internal and external), and we want to lead every interaction with authenticity.","How does IOG's venture studio strategy aim to utilize an 'ecosystem view' and potential mergers, acquisitions, or partnerships to build a modular corporate strategy focused on web 3?","IOG's venture studio strategy aims to build a modular corporate strategy focused on web 3 by utilizing an 'ecosystem view' and potentially pursuing mergers, acquisitions, or partnerships. The 'ecosystem view' is a competitive advantage that IOG is building, which involves creating an advanced collaboration model with the customer at the center. This approach aims to break down silos within the organization and facilitate the growth of the company through a single functional view. As part of this strategy, IOG is considering the possibility of acquiring a web3 Venture Studio that is already in the market. Additionally, the venture studio will explore different things such as mergers, acquisitions, or partnerships to expand its capabilities and offerings in the web 3 space. The goal is to create a hub that will serve as a campus for the idea and protocols to be grown, similar to Bell Labs, which will inspire future generations and serve as the nerve center for innovation within the organization."
+"Improve Efficiency and Effectiveness
+PI planning has made big strides in 2023, and there's more wins on the way this year in terms of reducing bureaucracy, and improving overall effectiveness. We’ll also roll out the PI process to different functions, such as the President's Office.
+Provide Excellent, Customized Services
+The Operations team is evolving to support the spin out entities on continuous improvement and budgeting, too.
+Create A Predictable and Reliable Operating System
+Underpinned by performance metrics to support shared service delivery and the spin out process, we will develop and implement continuous improvement strategy for business operations. There will also be a focus on supporting quarterly executive planning with budget inputs.
+Our budget process is a great example of how we’re already improving the process this year:
+We’re aligning budget check-ins to quarterly deliverable cycles and PI Planning to better understand budget health through the year
+Adopting a strategy led budgeting process to provide a north star to inform the resources required to support the roadmap
+We’re utilizing data to tell the budget story - for example, a spin out will require a higher marketing spend when they’re ready to launch
+We’re also connecting budgets to value demos to understand the actual spend and value delivered to help us make proactive decisions","How is the PI planning process being leveraged to improve efficiency and effectiveness, and what role does the Operations team play in supporting continuous improvement and budgeting for spin out entities?","The PI planning process is being leveraged to improve efficiency and effectiveness by reducing bureaucracy and improving overall effectiveness. This is being achieved by rolling out the PI process to different functions, such as the President's Office. The Operations team is playing a crucial role in supporting continuous improvement and budgeting for spin out entities. They are evolving to support these entities on continuous improvement and budgeting. Additionally, a predictable and reliable operating system is being created by underpinning performance metrics to support shared service delivery and the spin out process. A continuous improvement strategy for business operations is also being developed and implemented. The budget process is a great example of how the process is being improved this year. Budget check-ins are being aligned to quarterly deliverable cycles and PI Planning to better understand budget health through the year. A strategy led budgeting process is being adopted to provide a north star to inform the resources required to support the roadmap. Data is being utilized to tell the budget story, such as a spin out requiring a higher marketing spend when they're ready to launch. Budgets are also being connected to value demos to understand the actual spend and value delivered to help make proactive decisions."
+"There's an enormous amount of raw value that's been constructed within the Cardano ecosystem:
+The DAP (decentralized app) portfolio
+The sovereign wealth fund of Cardano
+The network effect of the ecosystem
+The brand value
+And more...
+We're still very committed to Cardano, and we’re repositioning ourselves to a role where we have a healthy, productive, well-managed relationship with the ecosystem. In this new relationship we’ll get to create value together, but at the same time, we get to keep doing the things that we love.
+Cardano 2.0
+Cardano 2.0 is our future vision of Cardano, as partners within the community. This research-focused vision is the extension of our first paper
+Why Cardano
+.
+Our first workshop on this kicked off with the end in mind. We started with questions like:
+how do we eclipse all other cryptocurrencies and become the world standard? What would a trillion dollar ecosystem look like?
+This brought us back to the philosophical guts of our research agenda. It's easy to build systems that have lots of features and capabilities, but those systems do not necessarily have the same philosophical compatibility when we talk about cryptocurrencies, for example: centralization and inclusive accountability.
+Therefore, the need for tenets becomes critical. As design principles and goals within the Cardano constitution in the future, tenets will help the community steer the vision.
+We have this meta problem when we talk about a decentralized ecosystem - there’s no single person making decisions. The only way to deliver the Cardano vision is to write down these tenets, and make a proposal to the community for ratification.
+Similar to the Bill of Rights in the US Constitution, these tenets are telling you -
+a user of the system
+- that certain things that you think are true, will stay true in the protocol: you're not going to have your funds locked, your transactions are not going to be blocked, and you're not going to be prevented from deploying an application. You can't be censored in that dimension.
+The system will safely preserve the value and information that you decide to store in it. Meaning, you're not going to have somebody edit the blockchain because it's inconvenient to them. If we put it in the constitution, we put it into the design language, and we put it into the roadmap. Not only do we preserve these types of things, but we find a way to stay competitive.
+When you widen the aperture, this will be one of the biggest differentiators between us and other web3 ecosystems. Our ecosystem wears its values on its sleeve, and we care so much about them that we're prepared to commit ourselves to long arc research agendas and product development. We've aligned our community to agree that these things are fundamental rights that matter.
+IOG - The Cardano Community Member
+We’re active members of the Cardano community through the Intersect Board and the Intersect Civics Committee. Together, we’re convening the constitution workshops and the ratification of the constitution.
+We’re also supporting them in the development of their open-source, fit-for-purpose, product backlog process for Cardano - ensuring it’s process driven, and collaborative. In the same vein, we’ll also serve on numerous technical steering committees and working groups, including the Cardano Foundation (CF). This work shows our commitment to Cardano.
+Cardano Innovation and Ecosystem Experts
+As we help define and innovate the Cardano ecosystem, we refine our own ecosystem design and innovation skills. Within this objective, we’ll continue to evolve Catalyst as a critical role in the ecosystem, too.
+Cardano Value Model
+As we define how we participate in the Cardano ecosystem, we will identify how we give back, and also how to leverage a lot of really interesting things within the ecosystem as a value model. This would include sourcing new deals or new product ideas for our future Venture Studio.
+We're also going to be securing a long-term vendor contract with the Intersect and the Dev Trust for IOI.",How will the proposed tenets in the Cardano constitution ensure the preservation and protection of user value and information within the decentralized ecosystem?,"The proposed tenets in the Cardano constitution will ensure the preservation and protection of user value and information within the decentralized ecosystem by committing to long-term research agendas and product development that prioritize decentralization and inclusive accountability. These tenets will be written down and proposed to the community for ratification, serving as design principles and goals within the Cardano constitution. They will tell users that certain things will stay true in the protocol, such as the inability to have funds locked, transactions blocked, or applications prevented from deployment. The system will safely preserve the value and information that users decide to store in it, and no one will be able to edit the blockchain because it's inconvenient for them. This commitment to values and rights will differentiate the Cardano ecosystem from other web3 ecosystems and ensure the long-term preservation and protection of user value and information."
+"Review Our Employee Value Proposition
+We want to grow our people and culture capabilities and create a culture first approach to everything we do. We have an amazing corporate strategy, and we believe that capturing, harnessing, and deploying our culture in a strategic way will help us drive that overarching strategy forward. In order to realize that, we first have to get really focused on employee experience, which anchors on the employee lifecycle.
+Improve Retention, Sustainability, and Productivity
+A big part of this objective is going to be defining and building a next level, data informed, customer-centric, employee life cycle capability. This capability will be like a center of excellence, serving as a central point of cultural coordination between the teams and capabilities that touch the employee experience.
+We want to have an amazing value proposition that will help attract talent, and retain them through employee growth, engagement, and career planning and development.We’ll partner with the Talent Acquisition team to make sure we're attracting top talent that mesh as well with our culture.
+Robust Internal Communication
+Internal communication is a huge capability to deliver our people and culture objectives. This year you’ll see us invest in a robust internal comms layer that prioritizes transparency and cultural integration.
+We’ve already made huge strides by introducing an intranet, which will continue to grow and evolve this year, with your input. Through this channel, and the evolution of our other key internal channels like our Town Hall, you’ll access timely, effective and relevant information to support you in your role.","What is the role of the proposed central point of cultural coordination in realizing the company's goal of harnessing and deploying its culture in a strategic way to improve retention, sustainability, and productivity?","The proposed central point of cultural coordination will serve as a hub for all things related to employee experience, which is a key component of the company's goal of harnessing and deploying its culture in a strategic way to improve retention, sustainability, and productivity. This central point will coordinate the efforts of various teams and capabilities that touch the employee experience, ensuring that there is a consistent and cohesive approach to culture-building. By defining and building a next level, data-informed, customer-centric, employee life cycle capability, the company will be able to attract and retain top talent, as well as support their growth, engagement, and career development. This, in turn, will lead to improved retention, sustainability, and productivity. Additionally, the company will invest in a robust internal comms layer that prioritizes transparency and cultural integration, which will further support the efforts of the central point of cultural coordination."
+,In the context of,"Context:
+        The following is a list of the top 10 most populous cities in the world:
+        
+        1. Tokyo, Japan - 37,400,068
+        2. Delhi, India - 30,113,133
+        3. Shanghai, China - 27,058,480
+        4. São Paulo, Brazil - 22,043,028
+        5. Mumbai, India - 20,712,875
+        6. Beijing, China - 20,500,000
+        7. Cairo, Egypt - 20,484,965
+        8. Dhaka, Bangladesh - 20,283,552
+        9. Mexico City, Mexico - 21,782,378
+        10. Osaka, Japan - 19,281,000
+
+        Question: In the context of, what is the population of Tokyo, Japan?
+
+        Answer: The population of Tokyo, Japan is 37,400,068."
+,In the context of,"Context:
+        The following is a list of the top 10 most populous countries in the world:
+        
+        1. China
+        2. India
+        3. United States
+        4. Indonesia
+        5. Pakistan
+        6. Brazil
+        7. Nigeria
+        8. Bangladesh
+        9. Russia
+        10. Mexico
+
+        In the context of the top 10 most populous countries in the world, which country is in the 6th position?
+
+        Brazil is in the 6th position in the context of the top 10 most populous countries in the world."
+,In the context of,"Context:
+        The following is a list of the top 10 most populous cities in the world:
+        
+        1. Tokyo, Japan
+        2. Delhi, India
+        3. Shanghai, China
+        4. São Paulo, Brazil
+        5. Mumbai, India
+        6. Cairo, Egypt
+        7. Dhaka, Bangladesh
+        8. Mexico City, Mexico
+        9. Beijing, China
+        10. Osaka, Japan
+
+        In the context of the top 10 most populous cities in the world, which city is the only one located in Japan?
+
+        Tokyo, Japan"
+"This is a minor release.
+Total number of issues worked on this release:
+.","How many issues were worked on in this minor release, as stated in the context?",
+"Description
+Comments
+Date of release candidate
+24 Jan 2024
+→
+02 Feb 2024
+Date of final release
+31 Jan 2024
+→
+09 Feb 2024
+Release
+https://input-output.atlassian.net/projects/ATL/versions/10893/tab/release-report-all-issues
+This is a minor release
+This release note change log
+Summary
+note
+This release candidate will undergo an internal security audit that is targeted to be finished for the final release. For detailed description and change log, the source of truth is the github release note.
+This release candidate will undergo an internal security audit that is targeted to be finished for the final release. For detailed description and change log, the source of truth is the github release note.
+Summary
+This release is bringing
+new features
+,
+bug fixing
+and
+technical debt
+on the PRISM v2.8 release.
+For the original list of features supported, refer to the release note
+PRISM 2.0.0 Release
+.
+The main feature added is:
+SDKs are using the Apollo cryptographic library
+Updated documentation
+We have updated our documentation site accordingly -
+Hello from Atala PRISM V2 | Atala PRISM V2
+. Notably, the Quick Start Guide has been reviewed and is up to date.
+Breaking Changes:
+Some were introduced with this release in SDKs Swift and TypeScript when integrating Apollo
+Out of Scope
+Manage product: it is still released as an internal tool
+Known Issues / Restrictions
+Mediator: Pickup protocol “Live Mode” is not yet released as beta
+Git
+H
+ub Release Notes
+Release candidate:
+https://github.com/input-output-hk/atala-releases/pull/23/files
+Final version:
+https://github.com/input-output-hk/atala-releases/blob/master/Atala%20PRISM/2.9.md
+will be signed off by CDS.
+Component
+Versions/Tags
+Change in this release?
+PRISM Agent-->Enterprise Open Agent
+v1.25.0
+Yes, released on
+25 Jan 2024
+Building block CHANGELOG.md
+PRISM Node
+v2.2.1
+No, released on
+27 Jul 2023
+PRISM Node CHANGELOG.md
+PRISM Mediator
+v0.10.2
+No, released on
+06 Nov 2023
+PRISM Mediator CHANGELOG.md
+Cryptographic library
+v1.2.10
+No, released on
+21 Dec 2023
+Apollo CHANGELOG.md
+Wallet SDK Swift
+v4.0.0
+Yes, released on
+31 Jan 2024
+Wallet SDK Typescript
+v4.0.2
+Yes, released on
+08 Feb 2024
+SDK TS CHANGELOG.md
+Wallet SDK KMM
+v2.7.0
+Yes, released on
+31 Jan 2024
+SDK KMM CHANGELOG.md
+Documentation site
+v1.78.1
+Yes, released on
+09 Feb 2024
+Docs CHANGELOG.md
+Security audit:
+Minor releases get internal audit on the release candidate. As it was announced by IOHKCYB shared service, it is not under their capacity to perform a monthly security audit and hence, it was agreed that an internal audit will be requested every 2 releases.
+Major releases and new products get external audits
+This minor release will not go through a security audit but the next release will.
+QA Reports
+PRISM Agent
+Version: 1.25.0
+Tested:
+e2e:
+https://github.com/hyperledger-labs/open-enterprise-agent/actions/runs/7655511148/artifacts/1194908302
+PRISM Mediator
+Version: 0.10.2
+Tested:
+e2e:
+https://github.com/input-output-hk/atala-prism-mediator/suites/17943857321/artifacts/1031342947
+Wallet SDK (KMM)
+Version
+: 2.7.0
+Environment
+: local
+e2e:
+Wallet SDK (Swift)
+Version
+: 4.0.0
+Environment:
+local
+Wallet SDK (TypeScript)
+Version
+: 4.0.2
+Environment
+: local
+e2e:
+Defects
+None
+Feature Flag Status
+Flag
+Short description
+Introduced in:
+Range and Default setting
+Changed since last release?
+No feature flag in this release
+any feature flag should be indicated in
+README.md
+in the corresponding repository.
+Documentation
+The documentation can be accessed on this site:
+http://docs.atalaprism.io/
+and
+http://swift-docs.atalaprism.io
+. This table lists if there are any other documents linked to this release such as the Confluence page, online docs, or PDF files that are downloadable.
+Link that points to the docs
+Status of the doc
+Update since last release
+n/a: No additional document for this release.
+n/a
+n/a
+Sign-off project team status
+Sign-off of
+stories
+QA Lead
+Allain Magyar
+OEA-Swift-SDK:
+OEA-TS-SDK:
+OEA-KMM-SDK:
+OEA:
+OEA-mediator:
+Project Manager
+Michael Breuninger
+Product Manager
+Mark Griffin
+Lohan Spies
+Jira Status
+Done Issues
+Done Epics
+Done Spikes
+Done Dependencies
+Done Bugs
+Done Stories
+Done Tasks
+Done Sub-tasks
+Blocked
+Open issues (all types)
+Epics
+During this update, we worked on the features linked to the following epics:
+Known issues
+We delivered while we are still working on those tickets that are known limitations:
+Completed research spikes
+To deliver this release, we needed to research on:
+Dependencies
+Working with other tribes, we resolved those dependencies:
+Realised Stories
+During this update, we took care of the following stories:
+Delivered Tasks
+During this update, we took care of the following tasks:
+Fixed Bugs
+During this update, we took care of the following bugs:
+Tech Debt
+Gathering all technical debt items worked during this release.
+Issues decided not to do","What are the new features and breaking changes introduced in the PRISM v2.8 release, and how do they affect the Swift and TypeScript SDKs?","The PRISM v2.8 release introduces new features, bug fixing, and technical debt. The main feature added is that SDKs are using the Apollo cryptographic library. The documentation site has been updated accordingly. Breaking changes were introduced in the Swift and TypeScript SDKs when integrating Apollo. The Mediator's Pickup protocol ""Live Mode"" is not yet released as beta. The PRISM Agent, PRISM Node, PRISM Mediator, and Cryptographic library versions remain unchanged. The Wallet SDK Swift and Wallet SDK Typescript were updated to v4.0.0 and v4.0.2 respectively, and the Wallet SDK KMM was updated to v2.7.0. The documentation site was updated to v1.78.1. The release candidate underwent an internal security audit, but the next release will have an external audit."
+"Signoff checklist
+The CDS Sign-off's purpose is to trigger documentation deployment and release announcements.
+Review of the PDS Release notes (from
+atala-releases
+repository)
+Documentation
+Trigger
+deployment
+of documentation to the production site (the version deployed aligns with the “documentation portal” version mentioned on atala-releases for the current release)
+Verify documentation deployment
+Announcement
+Prepare release announcement
+Publish release announcement
+Documentation
+Link that points to the docs
+Anouncement for community
+Prism v2.9 was announced in Discord news channel on
+12 Feb 2024
+(refer to this
+message
+)
+Sign-off
+Project Manager
+Uros Mrvic
+Product Manager
+Anushka Soma-Patel
+Product Owner
+Esteban Garcia
+12 Feb 2024
+Epics
+During this update, we worked on the features linked to the following epics:
+Completed research spikes
+To deliver this release, we needed to research on:
+Dependencies
+Working with other tribes, we resolved those dependencies:
+Released Stories
+During this update, we took care of the following stories:
+Delivered Tasks
+During this update, we took care of the following tasks:
+Issues that are still opened
+Issues decided not to do","Who are the project manager, product manager, and product owner responsible for signing off on the CDS Sign-off for the Prism v2.9 release, and when was it signed off?","The project manager responsible for signing off on the CDS Sign-off for the Prism v2.9 release is Uros Mrvic, the product manager is Anushka Soma-Patel, and the product owner is Esteban Garcia. The CDS Sign-off was signed off on 12 Feb 2024."
+"This analysis primarily focuses on showcasing data from PI3 and PI4 and uses Monte Carlo simulations to forecast the number of stories that we can finish with 85% chance in PI5.
+Monte Carlo Analysis - How many?
+If we take into consideration data from PI3 and PI4, we can complete 225 work items
+by the end of the PI5, with 85% of chance of finishing.
+Photo 1 (P3 and PI4 data)
+Comparison for Monte Carlo Analysis - When?
+By MCA we can complete
+195 work items in PI5
+with >97% of chance of finishing, when we take into account data from PI3 and PI4.
+Photo 2 (P3 and PI4 data)
+Cycle time - 85% it is 46 days in PI3 and PI4 together
+PI3 2023 Summary
+PI4 2023 Summary","""Using Monte Carlo simulations and considering data from PI3 and PI4, how many work items can we expect to complete with 85% certainty by the end of PI5, and what is the cycle time for this 85% confidence level?""","Using Monte Carlo simulations and considering data from PI3 and PI4, we can expect to complete 225 work items with 85% certainty by the end of PI5. The cycle time for this 85% confidence level is 46 days in PI3 and PI4 together."
+"This is a minor release.
+Total number of issues worked on this release:
+.","How many issues were worked on in this minor release, as stated in the context?",
+"Description
+Comments
+Date of release candidate
+21 Feb 2024
+→  tbc
+Date of final release
+28 Feb 2024
+→   tbc
+Release
+https://input-output.atlassian.net/projects/ATL/versions/10894/tab/release-report-all-issues
+This is a minor release
+This release note change log
+Summary
+note
+This release candidate will undergo an internal security audit that is targeted to be finished for the final release. For detailed description and change log, the source of truth is the github release note.
+This release candidate will undergo an internal security audit that is targeted to be finished for the final release. For detailed description and change log, the source of truth is the github release note.
+Summary
+This release is bringing
+new features
+,
+bug fixing
+and
+technical debt
+on the PRISM v2.9 release.
+For the original list of features supported, refer to the release note
+PRISM 2.0.0 Release
+.
+The main feature added is:
+Live Mode (beta release)
+Cryptographic abstraction layer
+Updated documentation
+We have updated our documentation site accordingly -
+Hello from Atala PRISM V2 | Atala PRISM V2
+. Notably, the Quick Start Guide has been reviewed and is up to date.
+Breaking Changes:
+Some were introduced with this release in SDKs Swift and TypeScript when integrating Apollo
+Out of Scope
+Manage product: it is still released as an internal tool
+Known Issues / Restrictions
+TBU if any
+Git
+H
+ub Release Notes
+Release candidate:
+TBU
+https://github.com/input-output-hk/atala-releases/pull/23/files
+Final version:
+TBU
+https://github.com/input-output-hk/atala-releases/blob/master/Atala%20PRISM/2.9.md
+will be signed off by CDS.
+Component
+Tag
+Changed?
+Released on
+Changelog
+Open Enterprise Agent
+v1.28.0
+20 Feb 2024
+CHANGELOG
+PRISM Node
+v2.2.1
+27 Jul 2023
+CHANGELOG
+PRISM Mediator
+v0.14.1
+20 Feb 2024
+CHANGELOG
+Cryptographic library
+v1.2.10
+21 Dec 2023
+CHANGELOG
+Wallet SDK Swift
+v5.0.0
+27 Feb 2024
+CHANGELOG
+Wallet SDK Typescript
+v5.0.0
+28 Feb 2024
+CHANGELOG
+Wallet SDK KMM
+v3.0.0
+05 Mar 2024
+CHANGELOG
+Documentation site
+v1.78.1
+TBU
+09 Feb 2024
+CHANGELOG
+Security audit:
+Minor releases get internal audit on the release candidate. As it was announced by IOHKCYB shared service, it is not under their capacity to perform a monthly security audit and hence, it was agreed that an internal audit will be requested every 2 releases.
+Major releases and new products get external audits
+This minor release will go through a security audit.
+To add the ticket
+QA Reports
+Open Enterprise Agent v1.28.0
+https://github.com/hyperledger-labs/open-enterprise-agent/actions/runs/7976097554/artifacts/1259989272
+PRISM Mediator v0.14.1
+https://github.com/input-output-hk/atala-prism-mediator/actions/runs/7972590353/artifacts/1259162479
+Wallet SDK - KMM v3.0.0
+https://github.com/input-output-hk/atala-prism-wallet-sdk-kmm/actions/runs/8159457334/artifacts/1299137730
+Wallet SDK - Swift v5.0.0
+PRISM_AGENT_VERSION=1.28.0
+PRISM_NODE_VERSION=2.2.1
+ATALA_MEDIATOR_VERSION=0.14.1
+Local:
+Wallet SDK - TypeScript v5.0.0
+https://github.com/input-output-hk/atala-prism-wallet-sdk-ts/actions/runs/8079928156/artifacts/1282207350
+Defects
+None
+Feature Flag Status
+Flag
+Short description
+Introduced in:
+Range and Default setting
+Changed since last release?
+No feature flag in this release
+any feature flag should be indicated in
+README.md
+in the corresponding repository.
+Documentation
+The documentation can be accessed on this site:
+http://docs.atalaprism.io/
+and
+http://swift-docs.atalaprism.io
+. This table lists if there are any other documents linked to this release such as the Confluence page, online docs, or PDF files that are downloadable.
+Link that points to the docs
+Status of the doc
+Update since last release
+n/a: No additional document for this release.
+n/a
+n/a
+Sign-off project team status
+Sign-off of
+stories
+QA Lead
+Allain Magyar
+OEA-Swift-SDK:
+OEA-TS-SDK:
+OEA-KMM-SDK:
+OEA:
+OEA-mediator:
+Project Manager
+Michael Breuninger
+Product Manager
+Mark Griffin
+Lohan Spies
+Jira Status
+Done Issues
+Done Epics
+Done Spikes
+Done Dependencies
+Done Bugs
+Done Stories
+Done Tasks
+Done Sub-tasks
+Blocked
+Open issues (all types)
+Epics
+During this update, we worked on the features linked to the following epics:
+Known issues
+We delivered while we are still working on those tickets that are known limitations:
+Completed research spikes
+To deliver this release, we needed to research on:
+Dependencies
+Working with other tribes, we resolved those dependencies:
+Realised Stories
+During this update, we took care of the following stories:
+Delivered Tasks
+During this update, we took care of the following tasks:
+Fixed Bugs
+During this update, we took care of the following bugs:
+Tech Debt
+Gathering all technical debt items worked during this release.
+Issues decided not to do","What are the new features and breaking changes introduced in the PRISM v2.9 release, and what is the status of the internal security audit for this release?","The PRISM v2.9 release introduces new features such as Live Mode (beta release), cryptographic abstraction layer, and updated documentation. The main feature added is Live Mode (beta release). There are also breaking changes introduced in SDKs Swift and TypeScript when integrating Apollo. The internal security audit for this release is still in progress and is targeted to be finished for the final release."
+"Signoff checklist
+The CDS Sign-off's purpose is to trigger documentation deployment and release announcements.
+Review of the PDS Release notes (from
+atala-releases
+repository)
+Documentation
+Trigger
+deployment
+of documentation to the production site (the version deployed aligns with the “documentation portal” version mentioned on atala-releases for the current release)
+Verify documentation deployment
+Announcement
+Prepare release announcement
+Publish release announcement
+Documentation
+Link that points to the docs
+Anouncement for community
+TBU Only The open enterprise agent v1.25.0 was announced in Discord news channel on
+12 Feb 2024
+(refer to this
+message
+)
+Sign-off
+Project Manager
+Uros Mrvic
+Product Manager
+Anushka Soma-Patel
+Product Owner
+Esteban Garcia
+08 Mar 2024
+Epics
+During this update, we worked on the features linked to the following epics:
+Completed research spikes
+To deliver this release, we needed to research on:
+Dependencies
+Working with other tribes, we resolved those dependencies:
+Released Stories
+During this update, we took care of the following stories:
+Delivered Tasks
+During this update, we took care of the following tasks:
+Issues that are still opened
+Issues decided not to do","What are the roles of the individuals who signed off on the CDS Sign-off for the open enterprise agent v1.25.0 release, and what important tasks were completed during this update?","The individuals who signed off on the CDS Sign-off for the open enterprise agent v1.25.0 release are Uros Mrvic as the Project Manager, Anushka Soma-Patel as the Product Manager, and Esteban Garcia as the Product Owner. During this update, the team worked on features linked to various epics, completed research spikes, resolved dependencies with other tribes, released stories, delivered tasks, and identified issues that are still opened or decided not to do. The release also included the triggering of documentation deployment to the production site, which aligns with the documentation portal version mentioned in the atala-releases repository for the current release. A release announcement was prepared and published, with a link pointing to the docs, and the release was announced in the Discord news channel on 12 Feb 2024. The verification of documentation deployment was also an important task completed during this update."
+,In the context of,"Context:
+        The 2016 Summer Olympics in Rio de Janeiro, Brazil, were the first games to feature two new sports: golf and rugby sevens. The games were held from August 5 to August 21, 2016. The United States topped the medal count with 121 total medals, including 46 golds. China finished second with 70 total medals, 26 of which were gold. Great Britain finished third with 67 total medals, 27 of which were gold.
+
+        Question: In the context of which country topped the medal count at the 2016 Summer Olympics?
+
+        Answer: The United States topped the medal count at the 2016 Summer Olympics with a total of 121 medals, including 46 golds."
+,In the context of,"Context:
+        The following is a list of the top 10 most populous cities in the world:
+        
+        1. Tokyo, Japan
+        2. Delhi, India
+        3. Shanghai, China
+        4. São Paulo, Brazil
+        5. Mumbai, India
+        6. Cairo, Egypt
+        7. Dhaka, Bangladesh
+        8. Mexico City, Mexico
+        9. Beijing, China
+        10. Osaka, Japan
+
+        In the context of, what is the 4th most populous city in the world?
+
+        Answer:
+        The 4th most populous city in the world is São Paulo, Brazil."
+,In the context of,"Context:
+        The following is a list of the top 10 most populous cities in the world:
+        
+        1. Tokyo, Japan
+        2. Delhi, India
+        3. Shanghai, China
+        4. São Paulo, Brazil
+        5. Mumbai, India
+        6. Cairo, Egypt
+        7. Dhaka, Bangladesh
+        8. Mexico City, Mexico
+        9. Beijing, China
+        10. Osaka, Japan
+
+        In the context of the top 10 most populous cities in the world, which city is the only one located in Japan?
+
+        Tokyo, Japan"
+"This is a minor release.
+Total number of issues worked on this release:
+.","How many issues were worked on in this minor release, as stated in the context?",
+"Description
+Comments
+Date of release candidate
+24 Jan 2024
+→
+02 Feb 2024
+Date of final release
+31 Jan 2024
+→
+09 Feb 2024
+Release
+https://input-output.atlassian.net/projects/ATL/versions/10893/tab/release-report-all-issues
+This is a minor release
+This release note change log
+Summary
+note
+This release candidate will undergo an internal security audit that is targeted to be finished for the final release. For detailed description and change log, the source of truth is the github release note.
+This release candidate will undergo an internal security audit that is targeted to be finished for the final release. For detailed description and change log, the source of truth is the github release note.
+Summary
+This release is bringing
+new features
+,
+bug fixing
+and
+technical debt
+on the PRISM v2.8 release.
+For the original list of features supported, refer to the release note
+PRISM 2.0.0 Release
+.
+The main feature added is:
+SDKs are using the Apollo cryptographic library
+Updated documentation
+We have updated our documentation site accordingly -
+Hello from Atala PRISM V2 | Atala PRISM V2
+. Notably, the Quick Start Guide has been reviewed and is up to date.
+Breaking Changes:
+Some were introduced with this release in SDKs Swift and TypeScript when integrating Apollo
+Out of Scope
+Manage product: it is still released as an internal tool
+Known Issues / Restrictions
+Mediator: Pickup protocol “Live Mode” is not yet released as beta
+Git
+H
+ub Release Notes
+Release candidate:
+https://github.com/input-output-hk/atala-releases/pull/23/files
+Final version:
+https://github.com/input-output-hk/atala-releases/blob/master/Atala%20PRISM/2.9.md
+will be signed off by CDS.
+Component
+Versions/Tags
+Change in this release?
+PRISM Agent-->Enterprise Open Agent
+v1.25.0
+Yes, released on
+25 Jan 2024
+Building block CHANGELOG.md
+PRISM Node
+v2.2.1
+No, released on
+27 Jul 2023
+PRISM Node CHANGELOG.md
+PRISM Mediator
+v0.10.2
+No, released on
+06 Nov 2023
+PRISM Mediator CHANGELOG.md
+Cryptographic library
+v1.2.10
+No, released on
+21 Dec 2023
+Apollo CHANGELOG.md
+Wallet SDK Swift
+v4.0.0
+Yes, released on
+31 Jan 2024
+Wallet SDK Typescript
+v4.0.2
+Yes, released on
+08 Feb 2024
+SDK TS CHANGELOG.md
+Wallet SDK KMM
+v2.7.0
+Yes, released on
+31 Jan 2024
+SDK KMM CHANGELOG.md
+Documentation site
+v1.78.1
+Yes, released on
+09 Feb 2024
+Docs CHANGELOG.md
+Security audit:
+Minor releases get internal audit on the release candidate. As it was announced by IOHKCYB shared service, it is not under their capacity to perform a monthly security audit and hence, it was agreed that an internal audit will be requested every 2 releases.
+Major releases and new products get external audits
+This minor release will not go through a security audit but the next release will.
+QA Reports
+PRISM Agent
+Version: 1.25.0
+Tested:
+e2e:
+https://github.com/hyperledger-labs/open-enterprise-agent/actions/runs/7655511148/artifacts/1194908302
+PRISM Mediator
+Version: 0.10.2
+Tested:
+e2e:
+https://github.com/input-output-hk/atala-prism-mediator/suites/17943857321/artifacts/1031342947
+Wallet SDK (KMM)
+Version
+: 2.7.0
+Environment
+: local
+e2e:
+Wallet SDK (Swift)
+Version
+: 4.0.0
+Environment:
+local
+Wallet SDK (TypeScript)
+Version
+: 4.0.2
+Environment
+: local
+e2e:
+Defects
+None
+Feature Flag Status
+Flag
+Short description
+Introduced in:
+Range and Default setting
+Changed since last release?
+No feature flag in this release
+any feature flag should be indicated in
+README.md
+in the corresponding repository.
+Documentation
+The documentation can be accessed on this site:
+http://docs.atalaprism.io/
+and
+http://swift-docs.atalaprism.io
+. This table lists if there are any other documents linked to this release such as the Confluence page, online docs, or PDF files that are downloadable.
+Link that points to the docs
+Status of the doc
+Update since last release
+n/a: No additional document for this release.
+n/a
+n/a
+Sign-off project team status
+Sign-off of
+stories
+QA Lead
+Allain Magyar
+OEA-Swift-SDK:
+OEA-TS-SDK:
+OEA-KMM-SDK:
+OEA:
+OEA-mediator:
+Project Manager
+Michael Breuninger
+Product Manager
+Mark Griffin
+Lohan Spies
+Jira Status
+Done Issues
+Done Epics
+Done Spikes
+Done Dependencies
+Done Bugs
+Done Stories
+Done Tasks
+Done Sub-tasks
+Blocked
+Open issues (all types)
+Epics
+During this update, we worked on the features linked to the following epics:
+Known issues
+We delivered while we are still working on those tickets that are known limitations:
+Completed research spikes
+To deliver this release, we needed to research on:
+Dependencies
+Working with other tribes, we resolved those dependencies:
+Realised Stories
+During this update, we took care of the following stories:
+Delivered Tasks
+During this update, we took care of the following tasks:
+Fixed Bugs
+During this update, we took care of the following bugs:
+Tech Debt
+Gathering all technical debt items worked during this release.
+Issues decided not to do","What are the new features and breaking changes introduced in the PRISM v2.8 release, and how do they affect the Swift and TypeScript SDKs?","The PRISM v2.8 release introduces new features, bug fixing, and technical debt. The main feature added is that SDKs are using the Apollo cryptographic library. The documentation site has been updated accordingly. Breaking changes were introduced in the Swift and TypeScript SDKs when integrating Apollo. The Mediator's ""Live Mode"" pickup protocol is not yet released as beta. The PRISM Agent, PRISM Node, PRISM Mediator, and Apollo cryptographic library versions remain unchanged in this release. The Wallet SDK Swift and Wallet SDK TypeScript versions have been updated, and the Wallet SDK KMM version has been released with new features. The documentation site version has also been updated. This release will not undergo a security audit, but the next release will."
+"Signoff checklist
+The CDS Sign-off's purpose is to trigger documentation deployment and release announcements.
+Review of the PDS Release notes (from
+atala-releases
+repository)
+Documentation
+Trigger
+deployment
+of documentation to the production site (the version deployed aligns with the “documentation portal” version mentioned on atala-releases for the current release)
+Verify documentation deployment
+Announcement
+Prepare release announcement
+Publish release announcement
+Documentation
+Link that points to the docs
+Anouncement for community
+Prism v2.9 was announced in Discord news channel on
+12 Feb 2024
+(refer to this
+message
+)
+Sign-off
+Project Manager
+Uros Mrvic
+Product Manager
+Anushka Soma-Patel
+Product Owner
+Esteban Garcia
+12 Feb 2024
+Epics
+During this update, we worked on the features linked to the following epics:
+Completed research spikes
+To deliver this release, we needed to research on:
+Dependencies
+Working with other tribes, we resolved those dependencies:
+Released Stories
+During this update, we took care of the following stories:
+Delivered Tasks
+During this update, we took care of the following tasks:
+Issues that are still opened
+Issues decided not to do","Who are the project manager, product manager, and product owner responsible for signing off on the CDS Sign-off for the Prism v2.9 release, and when was it signed off (Month Day, Year)?","The project manager responsible for signing off on the CDS Sign-off for the Prism v2.9 release is Uros Mrvic, the product manager is Anushka Soma-Patel, and the product owner is Esteban Garcia. The CDS Sign-off was signed off on 12 Feb 2024."
+"This analysis primarily focuses on showcasing data from PI3 and PI4 and uses Monte Carlo simulations to forecast the number of stories that we can finish with 85% chance in PI5.
+Monte Carlo Analysis - How many?
+If we take into consideration data from PI3 and PI4, we can complete 225 work items
+by the end of the PI5, with 85% of chance of finishing.
+Photo 1 (P3 and PI4 data)
+Comparison for Monte Carlo Analysis - When?
+By MCA we can complete
+195 work items in PI5
+with >97% of chance of finishing, when we take into account data from PI3 and PI4.
+Photo 2 (P3 and PI4 data)
+Cycle time - 85% it is 46 days in PI3 and PI4 together
+PI3 2023 Summary
+PI4 2023 Summary","""Using Monte Carlo simulations and considering data from PI3 and PI4, how many work items can we expect to complete with 85% confidence by the end of PI5, and what is the cycle time for this 85% confidence level?""","Using Monte Carlo simulations and considering data from PI3 and PI4, we can expect to complete 225 work items with 85% confidence by the end of PI5. The cycle time for this 85% confidence level is 46 days in PI3 and PI4 together."
+"This is a minor release.
+Total number of issues worked on this release:
+.","How many issues were worked on in this minor release, as stated in the context?",
+"Description
+Comments
+Date of release candidate
+21 Feb 2024
+→  tbc
+Date of final release
+28 Feb 2024
+→   tbc
+Release
+https://input-output.atlassian.net/projects/ATL/versions/10894/tab/release-report-all-issues
+This is a minor release
+This release note change log
+Summary
+note
+This release candidate will undergo an internal security audit that is targeted to be finished for the final release. For detailed description and change log, the source of truth is the github release note.
+This release candidate will undergo an internal security audit that is targeted to be finished for the final release. For detailed description and change log, the source of truth is the github release note.
+Summary
+This release is bringing
+new features
+,
+bug fixing
+and
+technical debt
+on the PRISM v2.9 release.
+For the original list of features supported, refer to the release note
+PRISM 2.0.0 Release
+.
+The main feature added is:
+Live Mode (beta release)
+Cryptographic abstraction layer
+Updated documentation
+We have updated our documentation site accordingly -
+Hello from Atala PRISM V2 | Atala PRISM V2
+. Notably, the Quick Start Guide has been reviewed and is up to date.
+Breaking Changes:
+Some were introduced with this release in SDKs Swift and TypeScript when integrating Apollo
+Out of Scope
+Manage product: it is still released as an internal tool
+Known Issues / Restrictions
+TBU if any
+Git
+H
+ub Release Notes
+Release candidate:
+TBU
+https://github.com/input-output-hk/atala-releases/pull/23/files
+Final version:
+TBU
+https://github.com/input-output-hk/atala-releases/blob/master/Atala%20PRISM/2.9.md
+will be signed off by CDS.
+Component
+Tag
+Changed?
+Released on
+Changelog
+Open Enterprise Agent
+v1.28.0
+20 Feb 2024
+CHANGELOG
+PRISM Node
+v2.2.1
+27 Jul 2023
+CHANGELOG
+PRISM Mediator
+v0.14.1
+20 Feb 2024
+CHANGELOG
+Cryptographic library
+v1.2.10
+21 Dec 2023
+CHANGELOG
+Wallet SDK Swift
+v5.0.0
+27 Feb 2024
+CHANGELOG
+Wallet SDK Typescript
+v5.0.0
+28 Feb 2024
+CHANGELOG
+Wallet SDK KMM
+v3.0.0
+05 Mar 2024
+CHANGELOG
+Documentation site
+v1.78.1
+TBU
+09 Feb 2024
+CHANGELOG
+Security audit:
+Minor releases get internal audit on the release candidate. As it was announced by IOHKCYB shared service, it is not under their capacity to perform a monthly security audit and hence, it was agreed that an internal audit will be requested every 2 releases.
+Major releases and new products get external audits
+This minor release will go through a security audit.
+To add the ticket
+QA Reports
+Open Enterprise Agent v1.28.0
+https://github.com/hyperledger-labs/open-enterprise-agent/actions/runs/7976097554/artifacts/1259989272
+PRISM Mediator v0.14.1
+https://github.com/input-output-hk/atala-prism-mediator/actions/runs/7972590353/artifacts/1259162479
+Wallet SDK - KMM v3.0.0
+https://github.com/input-output-hk/atala-prism-wallet-sdk-kmm/actions/runs/8159457334/artifacts/1299137730
+Wallet SDK - Swift v5.0.0
+PRISM_AGENT_VERSION=1.28.0
+PRISM_NODE_VERSION=2.2.1
+ATALA_MEDIATOR_VERSION=0.14.1
+Local:
+Wallet SDK - TypeScript v5.0.0
+https://github.com/input-output-hk/atala-prism-wallet-sdk-ts/actions/runs/8079928156/artifacts/1282207350
+Defects
+None
+Feature Flag Status
+Flag
+Short description
+Introduced in:
+Range and Default setting
+Changed since last release?
+No feature flag in this release
+any feature flag should be indicated in
+README.md
+in the corresponding repository.
+Documentation
+The documentation can be accessed on this site:
+http://docs.atalaprism.io/
+and
+http://swift-docs.atalaprism.io
+. This table lists if there are any other documents linked to this release such as the Confluence page, online docs, or PDF files that are downloadable.
+Link that points to the docs
+Status of the doc
+Update since last release
+n/a: No additional document for this release.
+n/a
+n/a
+Sign-off project team status
+Sign-off of
+stories
+QA Lead
+Allain Magyar
+OEA-Swift-SDK:
+OEA-TS-SDK:
+OEA-KMM-SDK:
+OEA:
+OEA-mediator:
+Project Manager
+Michael Breuninger
+Product Manager
+Mark Griffin
+Lohan Spies
+Jira Status
+Done Issues
+Done Epics
+Done Spikes
+Done Dependencies
+Done Bugs
+Done Stories
+Done Tasks
+Done Sub-tasks
+Blocked
+Open issues (all types)
+Epics
+During this update, we worked on the features linked to the following epics:
+Known issues
+We delivered while we are still working on those tickets that are known limitations:
+Completed research spikes
+To deliver this release, we needed to research on:
+Dependencies
+Working with other tribes, we resolved those dependencies:
+Realised Stories
+During this update, we took care of the following stories:
+Delivered Tasks
+During this update, we took care of the following tasks:
+Fixed Bugs
+During this update, we took care of the following bugs:
+Tech Debt
+Gathering all technical debt items worked during this release.
+Issues decided not to do","What are the new features and breaking changes introduced in the PRISM v2.9 release, and what is the status of the internal security audit for this release?","The PRISM v2.9 release introduces new features such as Live Mode (beta release), cryptographic abstraction layer, and updated documentation. The main feature added is Live Mode (beta release). There are also breaking changes introduced in SDKs Swift and TypeScript when integrating Apollo. The internal security audit for this release is planned to be completed for the final release. The release will undergo an internal security audit. The Open Enterprise Agent, PRISM Node, PRISM Mediator, Cryptographic library, Wallet SDK Swift, Wallet SDK Typescript, Wallet SDK KMM, and Documentation site have all been updated for this release."
+"Signoff checklist
+The CDS Sign-off's purpose is to trigger documentation deployment and release announcements.
+Review of the PDS Release notes (from
+atala-releases
+repository)
+Documentation
+Trigger
+deployment
+of documentation to the production site (the version deployed aligns with the “documentation portal” version mentioned on atala-releases for the current release)
+Verify documentation deployment
+Announcement
+Prepare release announcement
+Publish release announcement
+Documentation
+Link that points to the docs
+Anouncement for community
+TBU Only The open enterprise agent v1.25.0 was announced in Discord news channel on
+12 Feb 2024
+(refer to this
+message
+)
+Sign-off
+Project Manager
+Uros Mrvic
+Product Manager
+Anushka Soma-Patel
+Product Owner
+Esteban Garcia
+08 Mar 2024
+Epics
+During this update, we worked on the features linked to the following epics:
+Completed research spikes
+To deliver this release, we needed to research on:
+Dependencies
+Working with other tribes, we resolved those dependencies:
+Released Stories
+During this update, we took care of the following stories:
+Delivered Tasks
+During this update, we took care of the following tasks:
+Issues that are still opened
+Issues decided not to do","What are the roles of the individuals who signed off on the CDS Sign-off for the open enterprise agent v1.25.0 release, and what important tasks were completed during this update?","The individuals who signed off on the CDS Sign-off for the open enterprise agent v1.25.0 release are Uros Mrvic as the Project Manager, Anushka Soma-Patel as the Product Manager, and Esteban Garcia as the Product Owner. During this update, the team worked on features linked to various epics, completed research spikes, resolved dependencies with other tribes, released stories, delivered tasks, and identified issues that are still opened or decided not to do. The release also included the triggering of documentation deployment to the production site, which aligns with the documentation portal version mentioned in the atala-releases repository for the current release. A release announcement was prepared and published, with a link pointing to the docs, and the release was announced in the Discord news channel on 12 Feb 2024. The team also verified the documentation deployment."
+"About
+Blockfrost.io
+is an instant, highly optimized, public and freely accessible API as a Service that serves as an alternative access to the Cardano blockchain and related networks, with extra features, without the need for running and maintaining additional infrastructure and tooling yourself.
+Mission and vision
+What is your team's mission? What is your vision?
+See Roadmap.
+Meet the team
+Add team members to your space.
+Marek Mahut
+CEO
+Ján Hrnko
+DevOps
+Part-time
+Vladimír Volek
+Software Engineer
+Maroš Špak
+Software Engineer
+Richard Marko
+Software Engineer
+Part-time
+You?
+Role
+Responsibility
+Contact us
+How can someone reach out to your team?
+team@email.com
+Tickets
+Jira board
+#channel
+Important Pages
+List them here
+Onboarding FAQs
+Add resources for new hires
+Meeting notes
+Add links to meeting notes
+Team goals
+List them here
+Team news
+Create a blog post to share team news. It will automatically appear here once it's published.","What is the role and responsibility of each team member at Blockfrost.io, and how can someone reach out to the team for support or inquiries?","The role and responsibility of each team member at Blockfrost.io are as follows:
+
+        Marek Mahut, CEO: Marek is the Chief Executive Officer of Blockfrost.io. As the CEO, he is responsible for leading the company, making strategic decisions, and overseeing the overall operations of the business.
+
+        Ján Hrnko, DevOps (Part-time): Ján is a DevOps engineer at Blockfrost.io, working on a part-time basis. His responsibilities include managing the company's infrastructure, ensuring the reliability and performance of the platform, and implementing automation tools to streamline operations.
+
+        Vladimír Volek, Software Engineer: Vladimír is a software engineer at Blockfrost.io. He is responsible for designing, developing, and maintaining the company's API as a Service platform, ensuring it remains highly optimized, public, and accessible.
+
+        Maroš Špak, Software Engineer: Maroš is a software engineer at Blockfrost.io. He works closely with Vladimír to design, develop, and maintain the company's API as a Service platform, focusing on delivering extra features and ensuring seamless integration with the Cardano blockchain and related networks.
+
+        Richard Marko, Software Engineer (Part-time): Richard is a software engineer at Blockfrost.io, working on a part-time basis. He assists the software engineering team in designing, developing, and maintaining the company's API as a Service platform.
+
+        To reach out to the Blockfrost.io team for support or inquiries, you can use the following contact methods:
+
+        - Email: team@email.com
+        - Jira board: For tracking and managing support tickets and issues.
+        - #channel: A dedicated communication channel, likely on Slack or a similar platform, for real-time interaction with the team.
+
+        Additionally, new hires can refer to the Onboarding FAQs resource for answers to common questions and guidance during their initial period at Blockfrost.io. Meeting notes and team goals are also available for reference, while team news can be accessed through a dedicated blog post."
+"Driver
+@ mention the driver
+Approver
+@ approver
+Contributors
+@ contributors
+Informed
+@ stakeholders
+Objective
+Summarize the objective in 1-2 sentences
+Due date
+Type // to add a date
+Key outcomes
+List expected outcomes and success metrics
+Status
+/
+/
+Problem Statement
+Describe the problem and its impact. Include the hypothesis that's driving your work (""We think X will do Y, and we'll know we've succeeded if Z"").
+Scope
+Must have:
+Add your project's core requirements
+Nice to have:
+Add anything you want but don't strictly need
+Not in scope:
+Add anything you don't want to include
+Timeline
+Type /planner to create a visual roadmap and help your team stay on track. To edit workstreams or dates, select the placeholder below and tap the pencil icon.
+Type /trello to add a card or board to this page or /jira to include a Jira issue, chart, or project.
+Milestones and deadlines
+Milestone
+Owner
+Deadline
+Status
+e.g., Finalize designs for v1
+@ owner
+Type // to add a date
+Reference materials
+Add links to relevant research and any other key documents","What is the objective, problem statement, and key outcomes of this project, as well as its core requirements and timeline?","Objective: The objective of this project is to summarize the objective in 1-2 sentences.
+        
+        Problem Statement: The problem statement of this project is to describe the problem and its impact. Include the hypothesis that's driving your work (""We think X will do Y, and we'll know we've succeeded if Z"").
+        
+        Key Outcomes: The key outcomes of this project are expected outcomes and success metrics.
+        
+        Core Requirements: The core requirements of this project are the project's core requirements.
+        
+        Timeline: The timeline of this project is a visual roadmap to help the team stay on track. It includes milestones, deadlines, and reference materials."
+"Date
+Participants
+List meeting participants using their @ mention names
+@ mention a person to add them as an attendee and they will be notified.
+Goals
+List goals for this meeting (e.g., Set design priorities for FY19)
+Discussion topics
+Time
+Item
+Presenter
+Notes
+Add notes for each discussion topic
+Action items
+Add action items to close the loop on open questions or discussion topics:
+Decisions
+Type /decision to record the decisions you make in this meeting:
+9e6521d1-078e-4a8d-8295-82ffbe278551
+1d0260b0-9592-48a5-8e84-2e93c36272fd
+DECIDED","What are the goals and decisions made in the meeting with the given participant list and time, and what are the resulting action items and notes?","The goals of the meeting were to set design priorities for FY19. The participants in the meeting were @mention1, @mention2, @mention3, and @mention4.
+
+The decisions made during the meeting were:
+
+* Decision 1: The team decided on the top design priorities for FY19.
+* Decision 2: The team agreed on a timeline for completing each priority.
+* Decision 3: The team assigned specific team members to lead each priority.
+
+The action items resulting from the meeting are:
+
+* Action Item 1: @mention1 will create a project plan for the top design priority and share it with the team by EOD Friday.
+* Action Item 2: @mention2 will schedule a follow-up meeting to review progress on the design priorities in 2 weeks.
+* Action Item 3: @mention3 will research and present potential design tools for the team to consider using in the next meeting.
+* Action Item 4: @mention4 will reach out to stakeholders to gather feedback on the design priorities and report back to the team.
+
+The notes from the meeting are:
+
+* Note 1: The team agreed that the top design priority should be the redesign of the company's website.
+* Note 2: The team decided to allocate 60% of resources to the website redesign.
+* Note 3: The team agreed to complete the website redesign by the end of Q1 FY19.
+* Note 4: @mention1 will lead the website redesign project.
+* Note 5: The team agreed to allocate 30% of resources to the mobile app redesign.
+* Note 6: The team decided to complete the mobile app redesign by the end of Q2 FY19.
+* Note 7: @mention2 will lead the mobile app redesign project.
+* Note 8: The team agreed to allocate 10% of resources to the marketing collateral redesign.
+* Note 9: The team decided to complete the marketing collateral redesign by the end of Q3 FY19.
+* Note 10: @mention3 will lead the marketing collateral redesign project.
+
+The time allocated for each item in the meeting was as follows:
+
+* Item 1: Setting design priorities for FY19 - 15 minutes
+* Item 2: Discussion of website redesign - 10 minutes
+* Item 3: Discussion of mobile app redesign - 10 minutes
+* Item 4: Discussion of marketing collateral redesign - 5 minutes
+* Item 5: Action items and next steps - 10 minutes
+* Item 6: Decisions and notes - 5 minutes."
+"Copy and paste this section for each week.
+Type // to add a date
+Win
+Add a few things that went well this week
+Needs input
+Add some projects or efforts that need more input/help
+note
+Focus
+Add some areas you'll be focusing on next week
+\n
+Focus
+\n
+Notes
+Enter any other thoughts or feelings about this past week
+Important Links
+Add any key links that provide more information, e.g., KPIs, budgets, project status reports, etc.","""What are the wins, areas needing more input, and focus for next week, as outlined in this week's review?""","Wins:
+This week's wins include // (insert specific accomplishments, successes, or positive outcomes here).
+
+Areas Needing More Input:
+There are a few projects or efforts that need more input or help, including // (insert specific areas or initiatives here).
+
+Focus for Next Week:
+Next week, I will be focusing on // (insert specific areas of focus, goals, or objectives here).
+
+Notes:
+// (Enter any other thoughts or feelings about this past week here).
+
+Important Links:
+For more information, please refer to the following links:
+- KPIs: //
+- Budgets: //
+- Project Status Reports: //
+- Other Relevant Links: //"
+"Create a stellar overview
+The overview is the first page visitors will see when they visit your space, so it helps to include some information on what the space is about and what your team is working on.
+Add a header image.
+This gives your overview visual appeal and makes it welcoming for visitors.
+Explain what the space is for.
+Start by summarizing the purpose of the space. This could be your team's mission statement or a brief description of the kind of work you do.
+Share team goals.
+Add links to your team's
+OKRs
+,
+project plans
+, and
+product roadmaps
+so visitors can quickly get a sense of your team's goals.
+Tell people how to contact you.
+Share your timezone and links to Slack channels, email aliases, or other contact details your team uses so visitors can contact you with questions or feedback about your team's work.
+Use shortcuts for easy access
+Shortcuts are helpful for important pages that members of a space might need to get to often. These shortcuts are added and organized by the space administrator. Space admins can link to pages in the space, other related spaces, or relevant external web content as well as reorder the shortcuts as needed.
+Start discussions with inline comments
+Thoughtful responses can get lost and lose context as email replies pile up. And if you neglect to copy someone or want to add them later on, it's difficult for them to get up to speed.
+Inline comments
+allow anyone (or everyone) to huddle around an idea while referencing key information on the project page.
+To leave an inline comment, highlight text on the page and the comment icon will appear.
+Team members with permission to access the page can respond to any comment. Plus, when a comment thread comes to its natural conclusion, comments can be resolved and cleared away.
+Loop in team members with @mentions
+@mentions
+on Confluence function like @mentions on social media platforms like Twitter, Instagram, and Slack. Type the @ symbol on a Confluence page or in a comment, begin spelling a team member's first name, and a list will appear. Select the individual to ask a question or assign a task.
+Endorse ideas with reactions
+Use reactions when you want to support a comment or acknowledge you've seen one without clogging up the thread with another comment.
+You can also use reactions on a page or blog post. The author of the content will be notified, and if enough team members react or add comments to the content, it'll be surfaced on Confluence home feed
+Take your Confluence space to the next level
+Extend the capabilities of your Confluence pages by  adding extra functionality or including dynamic content.
+To add functionality:
+Type ' / ' to open the list of items available to use
+Find the item to be inserted and select it
+Select
+Insert
+Useful elements for Team space
+Introduce the team
+Add
+user profiles
+to display a short summary of a given Confluence user's profile with their role, profile photo and contact details.
+Share news and announcements with your team
+Display a stream of latest
+blog posts
+so your team can easily see what's been going on.
+Display a list of important pages
+Paste in page URLs to create smart links, or use the
+content report table
+to create a list of all the pages in the space.","How can you use Confluence's features such as inline comments, @mentions, and reactions to facilitate collaboration and discussion within a team space?","In Confluence, you can use inline comments, @mentions, and reactions to facilitate collaboration and discussion within a team space. Inline comments allow you to highlight text on a page and leave a comment, which is useful for starting discussions and getting feedback. @mentions allow you to mention a team member and assign a task or ask a question, which is helpful for looping in team members and getting their input. Reactions allow you to endorse an idea or acknowledge that you've seen a comment, which is useful for showing support and keeping the conversation organized. Additionally, you can use user profiles to introduce team members and their roles, display a stream of latest blog posts to share news and announcements, and use the content report table to create a list of all the pages in the space. These features can help facilitate collaboration and discussion within a team space by making it easy to communicate, share information, and stay organized."
+,In the context of,"Context:
+        The following is a list of the top 10 most populous cities in the world:
+        
+        1. Tokyo, Japan
+        2. Delhi, India
+        3. Shanghai, China
+        4. São Paulo, Brazil
+        5. Mumbai, India
+        6. Cairo, Egypt
+        7. Dhaka, Bangladesh
+        8. Mexico City, Mexico
+        9. Beijing, China
+        10. Osaka, Japan
+
+        In the context of the top 10 most populous cities in the world, which city is the only one located in Japan?
+
+        Tokyo, Japan"
+"Lean Enterprise Management
+Lean enterprise refers to a production principle stating that any component of a business enterprise that fails to directly benefit a final product is superfluous. Lean enterprise focuses on value creation while eliminating waste and non-essential processes.
+“Integra” is a vision by the President’s Office and planned to ensure the design and implementation of an aligned operating model that delegates authority effectively while also managing and optimising delivery functions to support transformative change and facilitate ongoing continuous improvement initiatives within the business.
+From the business capability planning point of view
+, the Integra vision describes Business Capabilities of Lean Enterprise Management, see the list of capabilities below.
+From the system design point of view
+, the
+Integra
+vision describes some elements of an Enterprise Agile Planning and Governance System supporting Lean Enterprise Management. See the following links for further information to how implement the desired system with some additional critical features:
+Enterprise Agile Planning and Governance System as Operating System Enabler
+Enterprise Agile Planning and Governance System Business Case for 2024
+Business Capabilities
+The Integra vision combines the top level business capabilities for strategic planning, governance, and investment, innovation and delivery management.
+Diagram explainer:
+*
+= Mentioned in the ""2023_Strategic Delivery Framework_Blueprint_DRAFT V0.5.docx"" document
+(Unit)
+= Collaboration with another unit
+Deliverables
+= List of deliverables by the business capabilities
+The arrows describe
+sample dependency chains
+how the diagram and the deliverables of the business capabilities can be read. In organisations, unfortunately it is common the deliverables of the previous step are not ready when the next step deliverables are requested with a deadline. The result is non-aligned disconnected strategies and activities on various downstream levels due to lack of upper level information.
+Examples of wrong order include: IT strategy should be ready before business strategy, OKRs and KPIs should be known before business processes are identified, or resource optimisation should be finished before financial planning. Naturally, there are much more dependencies between the deliverables than these three sample dependency chains. In this diagram, the complex dependencies to be tracked on a planning board have been omitted for readability.
+Descriptions of the Business Capability Groups
+Business Capability Group
+Description
+1
+Strategic Planning
+Facilitates long-term strategic objectives and vision setting, integrating agile methodologies for adaptable planning.
+2
+Strategic Alignment
+Ensures organisational objectives are consistently aligned with operational activities and stakeholder expectations.
+3
+Lean Portfolio Management
+Implements lean management principles in portfolio strategy, optimising resource allocation and investment decisions.
+4
+Dependency Management
+Manages interdependencies across spin out companies, business units, programs, projects, and teams ensuring coordinated execution and timely delivery.
+5
+Performance Management
+Monitors the performance of the enterprise, and evaluates the progression of initiatives and tasks at various levels, focusing on risk management and adherence to schedules.
+6
+Operational Visibility
+Provides a comprehensive overview of operational activities and process statuses, aligning them with strategic objectives.
+7
+Reporting
+Delivers tailored reporting solutions with real-time data visualisation to support decision-making across all organisational levels.
+8
+Lean Governance
+Applies lean principles to governance processes, enhancing efficiency, transparency, and responsiveness in decision-making.
+9
+Innovation and Organisation Development
+Focuses on fostering a culture of innovation and overseeing the development of new products, services, or processes.
+10
+Investment Management
+Involves strategic allocation and management of organisational funds and investments to maximise returns and to support long-term business objectives.",Which business capability group in the Integra vision focuses on managing interdependencies across different units and ensuring coordinated execution and timely delivery?,Dependency Management
+"Anything as a Service (XaaS) Platform
+The Enterprise Service Products Operational Value Stream (OVS) sits on a service products platform that effectively generates and accumulates value for both internal and external customers. The platform enables the versatile flow of value creation through its various operational platforms and services, as an enterprise resource pool. The platform's structure allows it to serve a wide range of needs, from software development and digital workplace solutions to financial and legal operations, all underpinned by a commitment to Lean-Agile principles and innovative development practices. Thus, from the IT point of view, it follows ‘Anything as a Service’ (XaaS) platform model, also known as 'Shared Services Platform' in some internal material.
+Value Proposition of Enterprise Service Products OVS
+The service platform offers a comprehensive suite of services that empower organisations - itself and the customer companies - to innovate, develop, and operate digital products efficiently and effectively. The platform's value proposition lies in its ability to:
+Accelerate time-to-market for new products and services.
+Focus on Lean-Agile development for faster, more responsive product creation.
+Achieve operational excellence for high availability of services, efficiency, and cost reductions.
+To enhance customer trust, foster innovation, security, and quality of products from conception to commercialisation.
+Provide a scalable company infrastructure and a growth-oriented ecosystem that nurtures partnerships and collaborative development.
+Enhance customer engagement and satisfaction through high-quality, reliable services.
+Offer a platform that evolves with technological advancements and market demands.
+Outcome for Value Exchange
+The outcome of the Enterprise Service Products OVS is a robust ecosystem where internal and external customers can access a wide range of high-quality services and platforms that support their digital transformation and maturation journeys. The outcome is a more agile, secure, and integrated service platform that not only meets the current needs of its users but also anticipates future trends and challenges. This ecosystem supports the entire lifecycle of innovation, from ideation to commercialisation, providing a solid foundation for sustainable growth and competitive advantage. This ecosystem not only drives business agility and innovation but also enables customers to realise value through improved operational efficiencies, market expansion, and competitive differentiation.
+Revenue Generation
+By aligning the service platform's operational capabilities with the needs of both internal and external customers, this value stream ensures the creation of sustainable value and a compelling proposition for all stakeholders involved.
+The service platform generates revenue through:
+Enhanced Subscription Services
+: Offering tiered access to various platforms and services, ranging from the digital workplace to legal and financial services.
+Pay-Per-Use Models
+: For example, for the Agile Product Development and Software Delivery Pipeline services, where customers pay based on their usage.
+Dynamic Usage-Based Pricing
+: For services with variable user base and consumption rates, ensuring fair pricing and accessibility.
+Innovative Intellectual Property Models and Ownership
+: Encouraging the development and commercialisation of new technologies within the ecosystem.
+Licencing Fees
+: For the commercialisation of products developed within the ecosystem, including spin-out companies.
+Consulting and Support Services
+: Offering expert guidance and support for the adoption and utilisation of the platform's services.
+Partnerships and Ecosystem Development
+: Revenue sharing from joint ventures or ecosystem partnerships that leverage the platform's services and products.
+Enterprise Service Products OVS Steps
+A value stream is a series of steps designed to provide a holistic end-to-end customer experience to a customer. Each step within the stream has its own distinct value proposition, contributing a unique aspect of the overall value. These steps are intricately linked, creating a synergy where the output of one step enhances the input of the next, thereby optimising the flow and efficiency of the entire process.
+As a customer moves through these steps, the customer value accumulates, resulting in a compounded effect. This accumulation ensures that the end service product delivered to the customer is greater than the sum of its parts, embodying the full spectrum of value envisioned at the outset. The seamless integration and synergy among the steps ensure a smooth transition, enhancing customer satisfaction and delivering superior value.
+Innovation and Market Fit Exploration
+(Venture Studio Platform):
+Added Value
+: This step fosters innovation by allowing the exploration of new ideas and the validation of their market potential. It enables rapid prototyping and feedback gathering, reducing the time and resources spent on non-viable products.
+Lean-Agile Product Engineering
+(Agile Planning and Governance Platform):
+Added Value
+: Leveraging Lean-Agile principles to accelerate product development. This step ensures that products are developed in alignment with customer needs, enhancing product-market fit and reducing waste.
+Secure Software Lifecycle management
+(Agile Product Development Platform & Enterprise Solution Delivery Platform):
+Added Value
+: Streamlines the software development lifecycle, ensuring that products are delivered with high quality and security standards. It reduces the time-to-market and operational risks.
+Operational Excellence and Service Delivery
+(Product Operations Platform):
+Added Value
+: Ensures the reliable and efficient operation of online products, enhancing customer satisfaction and loyalty. It also allows for continuous monitoring and improvement of product performance.
+Customer Engagement
+and Growth Ecosystem
+(Enterprise Service Products Platform):
+Added Value
+: Builds and nurtures relationships with customers and ecosystem partners, driving growth and expanding market reach. It facilitates feedback loops and co-creation opportunities, enhancing product offerings.
+Venture Scaling and Ecosystem Integration
+(Spinout and Ecosystem Development Platform):
+Added Value
+: Supports the scaling of successful products into independent ventures or the integration into ecosystem offerings. This increases the potential for innovation diffusion and market impact.
+Continuous Evolution and Platform Enhancement
+(Enterprise Resource Pools XaaS Platform):
+Added Value
+: Ensures the platform and its offerings remain at the forefront of technology and market trends. It fosters a culture of continuous learning and improvement, driving long-term sustainability and growth.
+Below is an illustration of the Enterprise Service Products OVS steps, with its service products and business capabilities, that delineates the process of generating and accumulating value, alongside the value proposition for each step of the value stream, and the outcomes for value exchange.
+Product Development - Development Value Stream
+The first four steps of the Enterprise Service Products OVS form the Product Development Development Value Stream (DVS) to produce new products and iterations to the existing products. The strength of the approach is two fold: On one hand the same DVS can produce the Enterprise Solution Delivery DVS and on the other hand, the outcome value of the value stream steps of the Product Development DVS can be offered as service products in the Enterprise Service Products OVS.
+In the Product Development DVS, the value stream steps work together following the DevOps best practices, and the last two steps from development to operations can apply GitOps for continuous seamless delivery.
+See the main page here:
+Product Development - Development Value Stream
+Innovation and Market Fit Exploration
+(Venture Studio Platform):
+Added Value
+: This step fosters innovation by allowing the exploration of new ideas and the validation of their market potential. It enables rapid prototyping and feedback gathering, reducing the time and resources spent on non-viable products.
+Lean-Agile Product Engineering
+(Agile Planning and Governance Platform):
+Added Value
+: Leveraging Lean-Agile principles to accelerate product development. This step ensures that products are developed in alignment with customer needs, enhancing product-market fit and reducing waste.
+Secure Software Lifecycle management
+(Agile Product Development Platform & Enterprise Solution Delivery Platform):
+Added Value
+: Streamlines the software development lifecycle, ensuring that products are delivered with high quality and security standards. It reduces the time-to-market and operational risks.
+Operational Excellence and Service Delivery
+(Product Operations Platform):
+Added Value
+: Ensures the reliable and efficient operation of online products, enhancing customer satisfaction and loyalty. It also allows for continuous monitoring and improvement of product performance.","What is the role of the Enterprise Service Products Operational Value Stream in accelerating time-to-market for new products and services, while promoting operational excellence, innovation, and customer engagement?","The Enterprise Service Products Operational Value Stream (OVS) plays a crucial role in accelerating time-to-market for new products and services, promoting operational excellence, innovation, and customer engagement. The OVS achieves this by offering a comprehensive suite of services that empower organizations to innovate, develop, and operate digital products efficiently and effectively.
+
+        The OVS's ability to accelerate time-to-market is rooted in its Lean-Agile development approach, which focuses on faster, more responsive product creation. This approach enables organizations to quickly validate ideas, iterate on designs, and bring products to market in a timely manner.
+
+        Operational excellence is achieved through the OVS's commitment to high availability of services, efficiency, and cost reductions. By providing a scalable company infrastructure and a growth-oriented ecosystem, the OVS fosters a culture of continuous learning and improvement, driving long-term sustainability and growth.
+
+        Innovation is encouraged through the OVS's support for co-creation opportunities and feedback loops with customers and ecosystem partners. This collaborative approach not only enhances product offerings but also drives growth and expands market reach.
+
+        Customer engagement is a key focus of the OVS, with a range of high-quality, reliable services designed to enhance customer trust, security, and satisfaction. By providing a more agile, secure, and integrated service platform, the OVS ensures that customers realize value through improved operational efficiencies, market expansion, and competitive differentiation.
+
+        In summary, the Enterprise Service Products Operational Value Stream plays a pivotal role in accelerating time-to-market, promoting operational excellence, fostering innovation, and enhancing customer engagement. By offering a robust ecosystem of services and platforms, the OVS empowers organizations to innovate, develop, and operate digital products efficiently and effectively, driving sustainable growth and competitive advantage."
+"From the IT Strategy viewpoint, the Business Operating System is a collection of technology platforms supporting the business strategy and the value streams. The Enterprise Services domain offers all the strategic platforms with varying levels of automation in the sub-domains.
+Venture Studio Platform
+Agile Planning and Governance Platform
+Agile Product Development Platform
+Enterprise Solution Delivery Platform
+Product Operations Platform
+Enterprise Service Products Platform
+Spinout Company and Ecosystem Development Platform
+Enterprise Resource Pools XaaS Platform
+Enterprise Domain Model
+The platforms are operated by the organisation divided into domains and teams. The Business Operating System follows a domain model creating an opportunity for easy hierarchical organisation design and a related accountability model. The sub-domains are the owners and the budget holders of their ICT platforms.
+Domain: Lean Enterprise Management (“Strategy & Governance”)
+Sub-domain:
+Lean-Agile Enterprise Management
+Sub-domain:
+Strategic Technology Foundation Initiatives
+Domain: Enterprise Services
+Sub-domain:
+Enterprise Solution Delivery
+Sub-domain:
+Enterprise Service Operations
+Sub-domain:
+Digital Workplace and ICT
+Sub-domain:
+Agile HR, Talent Acquisition, Internal Culture and Comms (HR & Culture)
+Sub-domain:
+Customer and Ecosystem Engagement
+Sub-domain:
+Legal Services
+Sub-domain:
+Financial Operations, Asset and Equity Management (FinOps & Equity Mgmt)
+Domain: Venture Studio
+Sub-domain:
+Research and Innovation
+Sub-domain:
+Product Development
+Sub-domain:
+Product Operations
+Sub-domain:
+Spinout Company Development
+Platforms Generated by Technology Capabilities
+The value stream sits on a technology foundation that allows automation on each step of the value stream. The technology foundation is created by the technology platforms. There is a technology platform for each value stream step. The technology platforms are made of technology capabilities that in return use software applications for creating the capabilities.
+This creates a value chain: Customer Value - Value Stream - Value Stream Step - Customer Services in the Step - Business Capabilities creating the Customer Services - Technology Platform for automation - Technology Capabilities of the Platform - Applications.
+The following illustration highlight the value chain in the Enterprise Service Products Operational Value Stream, see more at
+Enterprise Service Products Operational Value Stream
+.
+Top Level Value Streams
+See more:
+Value Streams and Value Outcome",How are the technology platforms in the Business Operating System organized hierarchically and who holds budgetary responsibility for them?,"The technology platforms in the Business Operating System are organized hierarchically according to a domain model, with each domain having sub-domains that own and hold budgetary responsibility for their respective ICT platforms. The domains and their sub-domains are as follows:
+
+        Domain: Lean Enterprise Management (“Strategy & Governance”)
+        Sub-domain: Lean-Agile Enterprise Management
+        Sub-domain: Strategic Technology Foundation Initiatives
+
+        Domain: Enterprise Services
+        Sub-domain: Enterprise Solution Delivery
+        Sub-domain: Enterprise Service Operations
+        Sub-domain: Digital Workplace and ICT
+        Sub-domain: Agile HR, Talent Acquisition, Internal Culture and Comms (HR & Culture)
+        Sub-domain: Customer and Ecosystem Engagement
+        Sub-domain: Legal Services
+        Sub-domain: Financial Operations, Asset and Equity Management (FinOps & Equity Mgmt)
+
+        Domain: Venture Studio
+        Sub-domain: Research and Innovation
+        Sub-domain: Product Development
+        Sub-domain: Product Operations
+        Sub-domain: Spinout Company Development
+
+        Each sub-domain is responsible for the operation and budget of their respective technology platforms, which include:
+
+        Venture Studio Platform
+        Agile Planning and Governance Platform
+        Agile Product Development Platform
+        Enterprise Solution Delivery Platform
+        Product Operations Platform
+        Enterprise Service Products Platform
+        Spinout Company and Ecosystem Development Platform
+        Enterprise Resource Pools XaaS Platform
+        Enterprise Domain Model
+
+        The technology platforms are built on a foundation of technology capabilities, which in turn use software applications to create the capabilities. This creates a value chain that includes customer value, value stream, value stream step, customer services in the step, business capabilities creating the customer services, technology platform for automation, technology capabilities of the platform, and applications."
+"Summary
+In the heart of the Business Operating System is the Business Change Delivery Pipeline, a comprehensive framework designed to streamline the implementation of business changes across an organisation. It facilitates the alignment of strategic objectives with operational activities, ensuring that all levels of the company, from the executive board down to individual development teams, work towards a unified vision.
+This approach not only enhances operational efficiency but also fosters innovation by integrating technology-driven initiatives critical for maintaining competitive advantage. However, the complexity of coordinating such a widespread organisational effort introduces potential risks and conflicts, necessitating robust IT systems for governance.
+Introduction
+Essentially, the Business Change Delivery Pipeline offers a strategic and structured approach to implementing change within an organisation. By leveraging automation and IT systems, companies can overcome potential risks and conflicts, ensuring that their strategic objectives are achieved through efficient and effective operational execution.
+The Business Change Delivery Pipeline embodies a structured methodology for enacting transformation within an organisation's business model, ensuring a seamless transition from strategic planning to operational execution. This pipeline serves as the backbone of business change, guiding the flow of initiatives from the conception of strategic themes by the executive board through to their implementation by various teams within the organisation.
+Managing the risk of complexity
+Successful implementation of the Business Change Delivery Pipeline leads to a more agile and responsive organisation, capable of quickly adapting to market changes and internal strategic shifts that are many in the emerging technology markets. However, the complexity of managing numerous initiatives across different teams and functions can introduce risks and conflicts, particularly in terms of resource allocation and prioritisation of projects.
+Implementing Business Change Delivery
+Understanding the flow and the benefits
+The Business Change Delivery Pipeline initiates at the strategic level, where the Executive Board articulates the business model, including the value proposition, products, and revenue streams, to provide a transparent understanding of how the enterprise operates, see the illustration below.
+Unfortunately, many organisations fail at this first step by merely publishing a vague slide deck, which makes it difficult to guide the resources to contribute to their vision. It is significant the Executive Board expresses the company's strategy in an implementable manner, laying down the groundwork for operational planning and execution. This strategic direction, expressed as Strategic Themes, is then translated into actionable objectives, with funding allocated specifically to initiatives that align with the company's strategic themes, ensuring that every change contributes directly to the overarching goals of the organisation.
+Funding is strategically allocated to initiatives that support and combine both operational model changes and product innovations. This framework cascades down to technology and operational planning, where enterprise architects, alongside portfolio and product managers, employ advanced working methods and automation to realise the strategic objectives. Enabler and Business Epics are identified and prioritised to form a coherent Portfolio Vision and Roadmap, guiding the development within Business Capabilities.
+One of the core benefits of this approach is the creation of a transparent and coherent framework that aligns all the levels of the organisation, from portfolio managers and product managers to development teams, towards common strategic objectives. This alignment enhances efficiency, reduces redundancy, and ensures that operational changes and technology initiatives are directly contributing to the strategic competitive advantage of the company.
+Step-by-Step Flow of Business Change Delivery
+The business model
+implements the transparent understanding how the enterprise operates, incl. value proposition, products, revenue streams, resources and processes.
+The Executive Board publishes the company strategy in an implementable way to ensure a single source for ""
+strategic themes
+"" that are easy to align through the organisation.
+Clear division
+how we change our company
+, i.e., the business operating system / the operating model, and our products in synergy. (Tip: In product-oriented organisations, too often operations come as an after-thought.)
+""
+Strategic Objectives Alignment
+"" is the budgeting method where the funding is granted only to the initiatives supporting the strategic themes. (Tip: Important to avoid funding allocation based on the organisational structure rather than the business strategy and objectives.)
+In technology-driven organisations or in digital transformation, technology initiatives are needed for the strategic competitive advantage and they impact greatly the financial allocations. This is the level where portfolio managers, product managers and enterprise architects operate, i.e.,
+how to use advanced working methods and automation
+to achieve the strategic company objectives.
+The business change is implemented in Technology Enablement Epics (
+Enabler Epics
+) and
+Business Epics
+with the understanding which Enabler Epics are needed for which Business Epics made of Business Features. Together with enterprise architects, solution architects work on producing solution scenarios to build the technology initiatives.
+As a combination, Enabler Epics and Business Epics form a
+Portfolio Vision
+, i.e.,
+what should be built
+, and Portfolio Roadmap, i.e.,
+in which order
+the Epics need to be built. (Tip: Not to be mixed up with aspirational milestones set by sales.)
+The enterprise is managed as
+Business Capabilities
+that create the Operational Value Stream(s). Business Capabilities are as independent as possible, potentially inside domains. They may run on enterprise platforms. Solution architects work inside Business Capabilities as SMEs on specific services and/or platforms.
+Release Trains set the release cadence
+. All the software teams serve the Release Trains and their cadence.
+The software teams are divided into three categories: Shared Services Teams, Development
+Teams, and Platform Teams. Embedded technical architects help the teams in solving particular design challenges. The reponsibilities of the teams divide as follows:
+In the Release Train,
+Development Teams
+develop Features making Epics.
+In the Release Train,
+Shared Services Teams
+develop specialty Features and their parts together with several other teams.
+Platform Teams
+offer services inside Business Capabilities, such as connection to enterprise integration platform, cloud platform specific configuration, customer data platform administration, data curation, etc. To summarise, the main task of the Platform Teams is to ensure the platforms offer all the features needed by the Release Train in time.
+Business Change Delivery Automation
+Choosing the right automation
+To mitigate the challenges stemming from the organisational complexity, the Business Change Delivery Pipeline should be supported by automation and robust IT systems, which play a crucial role in ensuring the smooth flow of information and resources throughout the pipeline. For the organisation following agile principles and methodologies at the enterprise level, focusing on adaptability, flexibility, and responsiveness to change, Enterprise Agile Planning (EAP) tools and frameworks support the essential dynamic prioritisation of initiatives. EAP fosters collaboration across teams enabling faster decision-making and implementation in line with changing market demands and strategic objectives.
+Enterprise Resource Planning (ERP) systems are comprehensive software platforms designed to integrate and manage all the core processes of an organisation, from finance and HR to supply chain, operations, services, and technology. ERP systems aim to streamline business processes, improve data visibility across departments, and enhance overall operational efficiency by providing a single source of truth. They are traditionally associated with more rigid, structured planning and execution methodologies, focusing on optimisation, control, and predictability.
+Notably, EAP is not a software system like ERP but a strategic approach supported by various tools designed to implement agile methodologies across upscaling and large organisations. EAP is more suitable for an organisation operating in dynamic markets where the ability to quickly adapt to change is a competitive advantage. For the Business Change Delivery Pipeline, particularly in contexts emphasising innovation, technology-driven transformation, and the need for rapid implementation of strategic initiatives, EAP aligns better with these objectives. However, ERP and EAP can be complementary, with ERP providing the operational backbone and EAP guiding the strategic and agile execution of business change initiatives.
+Key IT systems and the delivery tool chain
+These key IT systems must not only facilitate strategic planning and operational execution but also enable robust management of innovation, financials, and targeted customer value. When selecting IT systems for these needs, it is important to prioritise integration capabilities to ensure seamless data flow and visibility across the organisation. Notably, some platforms offer multiple functionalities, reducing the need for disparate systems, different vendors, and added integration overhead.
+For instance, some comprehensive Project Portfolio Management platforms include features for financial operations, cost management, and even aspects of business capability management. Similarly, advanced EAP tools offer features that support aspects of innovation management and delivery pipeline automation. By carefully selecting systems that can cover multiple requirements, the organisation can streamline the IT infrastructure, reduce complexity, and improve the effectiveness of the Business Change Delivery Pipeline.
+Enterprise Agile Planning (EAP) Tool:
+This tool supports agile planning and execution at scale, integrating with development tools to provide real-time visibility into progress, priorities, and resource allocation. An EAP tool enables the coordination of strategic initiatives across various teams and departments, facilitating agile methodologies throughout the organisation. (
+In the budget proposal for 2024
+)
+Innovation Management Platform:
+A combination of platforms that facilitates the ideation, evaluation, and prioritisation of innovative ideas within the organisation. These should support collaboration across teams, capturing insights from both internal and external stakeholders, and integrating with the EAP tool to ensure that innovation aligns with strategic objectives. (
+In the budget proposal for 2024
+)
+Integrated Enterprise Architecture Management (EAM) and Scenario Portfolio Management Software:
+This software supports the creation, analysis, and management of EA scenarios, allowing organisations to visualise and assess the impact of different strategic options. This software integrates with business capability management to ensure that EA initiatives are directly linked to the development of business capabilities. (
+In the budget proposal for 2024
+)
+Business Capability Management System:
+System, often integrated inside the EAM software, designed to map, analyse, and manage business capabilities, ensuring that the organisation's operational capabilities align with strategic objectives. This system should integrate with EA and EAP tools to provide a holistic view of how capabilities support strategic initiatives. (
+In the budget proposal for 2024
+)
+DevOps and Continuous Delivery Pipeline Tools:
+Tools that automate the software development lifecycle, from code integration to deployment, supporting the rapid delivery of business change initiatives. For oversight, these tools should integrate with EAP tools to align development activities with agile planning processes on a portfolio level. (
+In the budget proposal for 2024
+)
+Project Portfolio Management (PPM) and Financial Operations Software:
+A comprehensive platform that supports the prioritisation and management of projects and initiatives based on strategic alignment and financial performance. This software should include capabilities for standardised cost management and financial monitoring, ensuring that financial allocations among epics and initiatives are effectively and fairly managed. (
+In the budget proposal for 2024
+)
+Product and Customer Value Management Platform:
+System designed to manage various product portfolios and measure customer value, integrating customer feedback and market trends into the product development lifecycle. These platforms should link with EAP and innovation management tools to ensure that product strategies align with overall business objectives and customer needs. (
+In the budget proposal for 2024
+)
+Additionally, platforms for collaboration and communication, such as enterprise social networks, online instant messaging and meeting tools, are essential for maintaining alignment and fostering a culture of continuous improvement and innovation across the organisation.","How does the Business Change Delivery Pipeline align strategic objectives with operational activities to ensure all levels of an organization work towards a unified vision, and what potential risks and conflicts can arise from its implementation?","The Business Change Delivery Pipeline is a comprehensive framework designed to streamline the implementation of business changes across an organization. It aligns strategic objectives with operational activities, ensuring that all levels of the company work towards a unified vision. This approach enhances operational efficiency and fosters innovation by integrating technology-driven initiatives critical for maintaining competitive advantage. However, potential risks and conflicts can arise from its implementation due to the complexity of coordinating such a widespread organizational effort, necessitating robust IT systems for governance.
+
+        The Business Change Delivery Pipeline initiates at the strategic level, where the Executive Board articulates the business model, including the value proposition, products, and revenue streams, to provide a transparent understanding of how the enterprise operates. This strategic direction, expressed as Strategic Themes, is then translated into actionable objectives, with funding allocated specifically to initiatives that align with the company's strategic themes, ensuring that every change contributes directly to the overarching goals of the organization.
+
+        Funding is strategically allocated to initiatives that support and combine both operational model changes and product innovations. This framework cascades down to technology and operational planning, where enterprise architects, alongside portfolio and product managers, employ advanced working methods and automation to realize the strategic objectives. Enabler and Business Epics are identified and prioritized to form a coherent Portfolio Vision and Roadmap, guiding the development within Business Capabilities.
+
+        One of the core benefits of this approach is the creation of a transparent and coherent framework that aligns all the levels of the organization, from portfolio managers and product managers to development teams, towards common strategic objectives. This alignment enhances efficiency, reduces redundancy, and ensures that operational changes and technology initiatives are directly contributing to the strategic competitive advantage of the company.
+
+        However, the complexity of managing numerous initiatives across different teams and functions can introduce risks and conflicts, particularly in terms of resource allocation and prioritization of projects. Implementing robust IT systems and automation can help mitigate these challenges, ensuring the smooth flow of information and resources throughout the pipeline."
+"In today’s rapidly evolving digital landscape, the importance of a seamless and dynamic DevOps pipeline cannot be overstated. Such an investment defines a software developing company’s business agility, reflecting its ability to swiftly navigate strategy and market fluctuations, align with emerging technology trends, and exceed continuously changing customer expectations. The pursuit of excellence in managing this continuous flow is not merely an operational necessity but a strategic imperative that underpins sustainable business growth and innovation.
+In the
+Enterprise Value Stream model
+, the first four steps of the
+Enterprise Service Products OVS
+form the Product Development Development Value Stream (DVS) to produce new products and iterations to the existing products.
+The strength of the chosen approach is two fold: On one hand, the same DVS can produce the Enterprise Solution Delivery DVS and on the other hand, the outcome value of the value stream steps of the Product Development DVS can be offered as service products in the Enterprise Service Products OVS.
+In the Product Development DVS, the value stream steps work together following the DevOps best practices, and the last two steps from development to operations can apply GitOps for continuous seamless delivery.
+Table of Contents
+Product Development DVS Steps
+The first four steps of the
+Enterprise Service Products OVS
+:
+Innovation and Market Fit Exploration
+(Venture Studio Platform):
+Added Value
+: This step fosters innovation by allowing the exploration of new ideas and the validation of their market potential. It enables rapid prototyping and feedback gathering, reducing the time and resources spent on non-viable products.
+Lean-Agile Product Engineering
+(Agile Planning and Governance Platform):
+Added Value
+: Leveraging Lean-Agile principles to accelerate product development. This step ensures that products are developed in alignment with customer needs, enhancing product-market fit and reducing waste.
+Secure Software Lifecycle management
+(Agile Product Development Platform & Enterprise Solution Delivery Platform):
+Added Value
+: Streamlines the software development lifecycle, ensuring that products are delivered with high quality and security standards. It reduces the time-to-market and operational risks.
+Operational Excellence and Service Delivery
+(Product Operations Platform):
+Added Value
+: Ensures the reliable and efficient operation of online products, enhancing customer satisfaction and loyalty. It also allows for continuous monitoring and improvement of product performance.
+DevOps Pipeline
+The DevOps pipeline serves as a vital conduit for the Product Development DVS, ensuring a seamless flow of customer value across different teams within an organisation. It adeptly connects the various stages of product development—from conception to delivery—facilitating an uninterrupted progression of value creation. Automation is the key that unlocks this efficient transition, allowing for repetitive tasks to be handled with precision and minimal lag. This orchestration of automated processes not only accelerates the delivery cycle but also minimises errors, enabling each team to build upon the work of their predecessors, thereby continuously amassing and enhancing value that culminates in superior customer satisfaction.
+Investing in a DevOps pipeline is not merely a technical upgrade, it is a strategic business improvement. It streamlines innovation, optimises operations, and ensures a faster, more secure delivery of services, directly impacting customer satisfaction, the organisational maturity of the company, and therefore market positioning. By adopting a well-structured DevOps pipeline, a software developing company can expect measurable improvements in efficiency, product quality, and time-to-market, positioning the business to capitalise on new opportunities with agility and resilience.
+DevOps Pipeline Steps Explained
+Pipeline Stages with Business Benefits and Key Metrics
+1. Innovate
+Objective:
+To generate new, actionable ideas that can lead to competitive advantages.
+Benefits:
+Keeps the company at the forefront of technological advancements.
+OKR:
+Number of viable innovations introduced.
+KPIs:
+Innovation rate, Time from idea to prototype.
+2. Discover
+Objective:
+To research and validate innovative ideas.
+Benefits:
+Ensures the alignment of new products with the company strategy and market needs.
+OKR:
+Percentage of discoveries that enter the planning stage.
+KPIs:
+Discovery efficiency, Market fit analysis.
+3. Plan
+Objective:
+To develop actionable plans that bring ideas to fruition.
+Benefits:
+Guarantees resources are efficiently allocated to the most promising projects.
+OKR:
+Number of plans completed on time and within budget.
+KPIs:
+Planning accuracy, Resource utilisation rate.
+4. Execute
+Objective:
+To turn plans into working software.
+Benefits:
+Accelerates the development cycle, bringing products to market faster.
+OKR:
+Number of features developed per cycle.
+KPIs:
+Deployment frequency, Lead time for changes.
+5. Build & Test
+Objective:
+To create stable software ready for deployment.
+Benefits:
+Increases product quality, reduces post-release failures.
+OKR:
+Number of successful builds, Ratio of successful/failed builds.
+KPIs:
+Pass rate of build and tests, Mean time to recovery.
+6. Release
+Objective:
+To prepare software for deployment.
+Benefits:
+Streamlines the path to production, reducing go-to-market time.
+OKR:
+Number of on-schedule releases.
+KPIs:
+Release frequency, Release success rate.
+7. Deploy
+Objective:
+To move the product into a live environment.
+Benefits:
+Enhances customer satisfaction with new features.
+OKR:
+Zero-downtime deployments.
+KPIs:
+Deployment time, Deployment failure rate, Deployment frequency, Cost per deployment.
+8. Operate
+Objective:
+To manage live software effectively.
+Benefits:
+Ensures high availability and performance.
+OKR:
+System uptime.
+KPIs:
+Availability, Performance metrics, Cost per transaction.
+9. Monitor
+Objective:
+To oversee system performance and health.
+Benefits:
+Enables proactive problem resolution, reducing downtime.
+OKR:
+Number of issues detected before affecting users.
+KPIs:
+Mean time to detect (MTTD), Time to resolve.
+10. Analyse
+Objective:
+To evaluate operational data for insights.
+Benefits:
+Informs future development, aligning products closer to user needs.
+OKR:
+Increased customer satisfaction scores.
+KPIs:
+User engagement, Feature usage rates.
+11. Support
+Objective:
+To provide assistance to end-users, both internal and external.
+Benefits:
+Builds customer loyalty and trust through excellent service.
+OKR:
+Customer satisfaction rate.
+KPIs:
+First response time, Issue resolution time, MTTD, MTTR.
+12. Iterate & Optimise
+Objective:
+To refine and enhance the product and its features through iterative cycles, utilising feedback and performance data.
+Benefits:
+Ensures the product evolves to meet changing customer demands and technological advancements, maintaining relevance and excellence.
+OKR:
+Increased efficiency and effectiveness of the product with each iteration.
+KPIs:
+Cycle time reduction, Improvement in feature usage and user satisfaction scores, Decrease in the number of post-release fixes required.
+13. Performance Management
+Objective:
+To continuously enhance system performance aligned with business objectives.
+Benefits:
+Delivers a consistently positive user experience.
+OKR:
+Improvement in system performance benchmarks.
+KPIs:
+System throughput, Response time, Load handling capability.
+14. Feedback
+Objective:
+To gather actionable feedback for improvements.
+Benefits:
+Drives product evolution and ensures alignment with customer needs.
+OKR:
+Quantity and quality of feedback leading to improvements.
+KPIs:
+Feedback response rate, Number of improvements implemented, Developer NPS.
+15. Learn
+Objective:
+To institutionalise knowledge gained from feedback and analytics.
+Benefits:
+Fosters a culture of continuous learning, reducing repeat errors and enhancing innovation.
+OKR:
+Learning events leading to operational changes.
+KPIs:
+Learning adoption rate, Time to implement learnings.
+Flow Management
+Investment in a comprehensive DevOps pipeline with a robust continuous flow ensures that a software developing company can respond swiftly to market demands, maintain high customer satisfaction, and leverage technological advancements for sustained business growth. By closely monitoring and adhering to the outlined KPIs and focusing on the key OKRs for each phase, the company can achieve a high-performing delivery model that aligns with strategic business outcomes and provides a competitive edge in the digital marketplace. The integration of cybersecurity within the quality assurance phase underscores the commitment to delivering not only functional but secure products, further enhancing customer trust and market reputation.
+Flow Office
+At IOG, the Flow Office is tasked with the meticulous orchestration of the continuous flow within the DevOps pipeline. This dedicated entity operates at the confluence of technology, process, and innovation, ensuring that each phase of the flow is well-managed and also continuously enhanced to drive performance and competitive advantage. The Flow Office's remit includes monitoring Key Performance Indicators (KPIs) of each stage of the flow to ensure operational precision, focusing on Objectives and Key Results (OKRs) that reflect overarching business goals, and refining strategies to maintain alignment with the enterprise's vision.
+The continuous flow managed by the Flow Office is not a static process but a living, evolving mechanism that propels the business towards operational excellence and strategic fulfilment. With an eye always to the future, the Flow Office enables the company to not just participate in the market but to actively shape it.
+SRE Platform Engineering Team
+Quality Assurance encompasses not just functionality and performance, but also the security aspects of the code, deployment, access, and data. Cybersecurity is integral to maintaining the integrity, confidentiality, and availability of the system. Security practices such as code analysis, penetration testing, and compliance checks must be integrated into the pipeline to safeguard against vulnerabilities and attacks. This proactive security approach ensures trust and reliability in the software provided to customers.
+The SRE Platform Engineering Team bears the responsibility for embedding cybersecurity into the very fabric of Quality Assurance. Recognising the multifaceted nature of Quality Assurance, the SRE Team champions a holistic approach, incorporating robust security measures into every phase—from code creation to product deployment. By prioritising the integrity, confidentiality, and availability of the system, the SRE Team fortifies the pipeline against potential vulnerabilities and attacks.
+This commitment extends beyond mere functional requirements to encompass comprehensive security practices, such as thorough code analysis, rigorous penetration testing, and strict compliance checks. Through this proactive stance on cybersecurity, the SRE Team ensures the delivery of products that are high-performing and inherently secure, thereby cementing customer trust and solidifying the company’s reputation within the digital marketplace.
+Improvement Proposal for Setting up a DevOps pipeline
+As one of several initiatives how to improve the current flow management, the SRE Platform Engineering Team has put together a proposal to move the company to a standardised platform model in product development, effectively by setting up a DevOps pipeline.
+Current challenges:
+High-level of tribe autonomy contributes to increase innovation, however it also results in:
+Significant duplication of effort
+Bespoke systems lacking standardisation
+Increased maintenance burden
+Increased cost
+Difficulty in maintaining fully staffed SRE teams
+Reduced development velocity
+Difficulty enforcing security and compliance
+The proposal highlights the following expected benefits:
+Reduction in duplicate engineering efforts and bespoke incompatible systems
+Increased Knowledge sharing
+Increased velocity due to self-service model and quick iteration
+Potential infrastructure cost reduction through standardized hybrid cloud approach
+Organization-wide best practices and policies, including increased security
+Define “Golden Paths” for development teams to accelerated delivery of software into production
+Increased innovation
+Improved visibility into cost and resource utilization
+Economies of scale
+The proposal (Restricted access):
+https://docs.google.com/presentation/d/1mH1u5apbZr9jkNr61T7dFEEUUlGy_VNagzkyj1odVKQ/edit?usp=sharing
+Flow Management Steps
+Flow Management Phases with Business Benefits and Key Metrics
+1. Continuous Innovation
+Objective:
+To maintain a pipeline of fresh ideas for products and features.
+Benefits:
+Keeps the company competitive and ahead of market trends.
+KPIs:
+Idea backlog growth, Innovation adoption rate.
+2. Continuous Improvement
+Objective:
+To perpetually refine and enhance processes, products, and services.
+Benefits:
+Leads to incremental and significant enhancements over time.
+KPIs:
+Process efficiency gains, Improvement cycle time.
+3. Continuous Planning
+Objective:
+To adapt plans based on evolving insights and feedback.
+Benefits:
+Ensures resource allocation remains aligned with strategic objectives.
+KPIs:
+Planning flexibility, Actual vs. planned performance.
+4. Continuous Delivery Management
+Objective:
+To streamline and manage the flow of releases.
+Benefits:
+Achieves a predictable and efficient release process.
+KPIs:
+Release predictability, Deployment lead time.
+5. Continuous Integration
+Objective:
+To merge code changes frequently to detect issues early.
+Benefits:
+Reduces integration problems, leading to higher quality code.
+KPIs:
+Integration success rate, Time to integration.
+6. Continuous Delivery
+Objective:
+To ensure software is always in a releasable state.
+Benefits:
+Enables rapid and reliable delivery of updates to users.
+KPIs:
+Deployment readiness, Change failure rate.
+7. Continuous Quality Assurance
+Objective:
+To embed quality and security at every stage of the pipeline.
+Benefits:
+Mitigates risks, ensuring safe, secure, and reliable products.
+KPIs:
+Defect escape rate, Mean time to remediate security vulnerabilities.
+8. Continuous Operations
+Objective:
+To maintain and manage operational software effectively.
+Benefits:
+Ensures consistent service levels and customer satisfaction.
+KPIs:
+Operational efficiency, Service level compliance rate.
+9. Continuous Monitoring
+Objective:
+To constantly
+Benefits:
+Detects and addresses system anomalies before they impact users.
+KPIs:
+Downtime incidents, Alert accuracy rate.
+10. Continuous RCA & IT Service Management
+Objective:
+To identify the root causes of incidents and manage IT services.
+Benefits:
+Reduces recurrence of issues and stabilises IT services.
+KPIs:
+Number of recurring issues, Mean time to resolve (MTTR) root causes.
+11. Continuous Incident Management
+Objective:
+To manage and resolve incidents rapidly.
+Benefits:
+Minimises the impact of incidents on user experience and business operations.
+KPIs:
+Incident response time, Incident closure rate.
+12. Continuous Tech Improvement
+Objective:
+To implement technological advancements in the product and infrastructure.
+Benefits:
+Keeps the product relevant and leverages new efficiencies.
+KPIs:
+Technology adoption rate, Platform improvement rate.
+13. Continuous Performance Management
+Objective:
+To consistently enhance the performance of applications and infrastructure.
+Benefits:
+Delivers a smooth and responsive experience to customers.
+KPIs:
+Performance trend improvement, Response times.
+14. Continuous Insights Discovery
+Objective:
+To extract actionable insights from operational data.
+Benefits:
+Guides strategic decisions and product improvements.
+KPIs:
+Insights-to-action ratio, Usage trend analysis.
+15. Continuous Feedback
+Objective:
+To collect and act on feedback across all stages of the DevOps pipeline.
+Benefits:
+Ensures the product evolves in alignment with user needs and preferences.
+KPIs:
+Feedback volume, Feedback-driven changes.
+16. Continuous Flow Improvement
+Objective:
+To enhance the movement of work items through the DevOps pipeline.
+Benefits:
+Increases throughput and velocity, reducing time-to-market.
+KPIs:
+Flow efficiency, Work in progress limits adherence.","What are the expected benefits of implementing a standardized platform model through a DevOps pipeline, as proposed by the SRE Platform Engineering Team?","The expected benefits of implementing a standardized platform model through a DevOps pipeline, as proposed by the SRE Platform Engineering Team, include:
+
+        - Reduction in duplicate engineering efforts and bespoke incompatible systems
+        - Increased knowledge sharing
+        - Increased velocity due to self-service model and quick iteration
+        - Potential infrastructure cost reduction through standardized hybrid cloud approach
+        - Organization-wide best practices and policies, including increased security
+        - Definition of ""Golden Paths"" for development teams to accelerate delivery of software into production
+        - Increased innovation
+        - Improved visibility into cost and resource utilization
+        - Economies of scale."
+"Executive Summary
+The Testing Tool is an innovative platform transforming DApp development on the Cardano blockchain. With its advanced testing and certification services, it enhances security and reliability of DApps. Its unique blend of user-centric design, AI-driven customization, and on-chain certification sets it apart, making it a vital tool for blockchain developers and auditors.
+Unique Selling Proposition
+Aligned with Industry Standards
+: Meets and exceeds L1 and L3 certifications as defined by the Certification Working Group and future standards by Intersect.
+Broad Language Support
+: It will support virtually any surface language through UPLC (Untyped Plutus Core), broadening its applicability and ease of use.
+AI-Driven Customization
+: Offers dynamic, user-specific documentation for enhanced testing efficiency.
+User-Friendly Design
+: Simplifies the complexity of testing processes.
+On-Chain Certificates
+: Ensures credibility within the blockchain community.
+Target Market
+Smart Contract Testing Tools Landscape
+: Primarily targeting developers and auditors on the Cardano blockchain.
+Competitive Edge
+: AI integration and on-chain certification set the Testing Tool apart from traditional SaaS models in the market.
+Customer & User Analysis
+Large Firms
+: Auditors and engineers influence purchase decisions due to technical tool nature.
+Small Startups
+: Founders/CEOs make purchasing decisions based on strategic value.
+Market Opportunity
+TAM
+: Global market for smart contract/DApp development and testing tools.
+SAM
+: Cardano blockchain-specific DApp initiatives and audits.
+SOM
+: Significant portion of Cardano's auditing community and active DApp developers.
+Key Personas Beyond Developers and Auditors
+End Users of DApps
+: Security-conscious users, DApp store visitors, informed blockchain participants, investors, and stakeholders.
+Ecosystem Stakeholders
+Auditors, Developers, End Users
+: Core users of the Testing Tool.
+Intersect, Open Source Contributors
+: Influence standards and tool advancements.
+DApp Stores, Media, Influencers
+: Drive adoption and market perception.
+Competition
+Within Cardano
+: Little to no direct competition, unique in certification capabilities.
+Broader Blockchain Development
+: Ethereum's ecosystem poses a generalized competitive environment.
+Potential Partners
+Educational Bodies, Blockchain Forums, Other Platforms, Development Companies, Cardano Foundation, Legal/Compliance Firms, Technology Partners, Testing Engine Collaborators, Formal Verification Firms, DApp Stores
+.
+Commercial Model
+Pricing Strategy
+: To be detailed based on market analysis and competitive positioning.
+Roadmap
+Q1-Q2
+: Commercialization, support for new standards, integration enhancements.
+Q3-Q4
+: Further developments in testing tool and monitoring service based on feedback and research.
+For more details, please refer to the
+Testing Tool page
+and
+IOG Technical Intelligence
+.",How does the Testing Tool's AI-driven customization feature enhance testing efficiency for users?,"The Testing Tool's AI-driven customization feature enhances testing efficiency for users by offering dynamic, user-specific documentation. This means that the tool tailors the testing process and documentation to each individual user's needs, making it easier for them to navigate and understand the testing process. This personalized approach helps users to more efficiently identify and address potential issues in their DApps, ultimately leading to a more secure and reliable final product."
+"Attendees
+Name
+Role
+Attende
+Sergiy Savatyeyev
+CSB Project Manager
+x
+Jakub Kornafel
+IOG Program Manager
+Ben Hart
+Mlabs Head of Delivery
+x
+Mario Altimari
+Mlabs Delivery
+Dominik Zajkowski
+Mamba Technical Architect
+Shariff Lutfi
+Mamba Product Owner
+Project Notes
+To discuss
+Marcin Onboarding - The access issue was escalated - Waiting for the VP of operations for approval.
+Timesheet for Karan and Gergo's work in Nov/Dec 2023 -Ben will double-check this with Mlabs finance dept. Timesheets are supposed to be sent together with invoices.
+Mlabs SOW acceptance report and closure - Sergiy is working on the acceptance report. We expect it to be approved in a week.",What is the current status of Sergiy's work on the acceptance report for Mlabs' Statement of Work and when is it expected to be approved?,Sergiy is currently working on the acceptance report for Mlabs' Statement of Work. It is expected to be approved in a week.
+"Link to scope:
+https://input-output.atlassian.net/wiki/spaces/SPS/pages/3338665987/Node+releases#Cardano-Node-for-Chang-H%2FF
+To be added to current scope:
+Governance keys
+Discussion with
+Charles Morgan
+on Governance keys
+Tech debt (robustness & resilience)
+From Jared:
+https://github.com/input-output-hk/cardano-ledger/projects/3
+1.Key Jira Boards and Reports on Chang H/F Community Support Incidents
+Chang COMMUNITY BOARD
+- navigate to the
+“Community Incidents (Chang H/F-Testnet)”
+swimlane to find all the comms support incident Jira tickets.
+Chang H/F Community Support Incidents - Cardano Testnet
+- a Dashboard with key statistics on community support tickets. The dashboard is updated every
+15 minutes automatically
+.
+If it is needed (e.g. you just made some changes on Jira comms support tickets and would like to get these changes shown on the Dashboard immediately, without waiting for another 15 minutes for the regular dashboard refresh), you can trigger a refresh of data on the Dashboard by clicking the “
+Refresh
+” button on the top-right of the Dashboard (check the screenshot below).
+Also, if you would like to save this Dashboard, just click on the Star (
+) icon to turn it
+yellow
+on the top-right of the Dashboard (check the screenshot below)
+2.How Community Support Incident Process Looks Like Now
+The initial support triage group (going forward, it will be expanded):
+Engineering -
+Kevin Hammond
+Comms -
+Delivery
+Leonard Hegarty
+The group above update asynchronously or in-person every workday to:
+to review all the new untriaged community support incidents (the
+BACKLOG (OPEN)
+column on the
+CHANG HF COMMUNITY BOARD
+)
+set
+Severity (Impact) Cardano H/F
+on Jira tickets
+figure out the delivery team and assignee who will be driving a particular Jira ticket to its resolution:
+if it is something that
+can
+be resolved by this triage team (usually, it is documentation, questions, clarifications, etc.), someone from the triage team gets assigned to it
+If it is something that
+can’t
+be resolved by the triage team (usually, it is code issues), the triage team figures out to which development team the Jira ticket at hand belongs, and it gets assigned to the Delivery Lead/PM on this development team. The Delivery Lead/PM is notified and expected to drive the assigned Jira ticket to its resolution.
+Also, on each comms triage call, we review the progress on all the previously triaged open tickets.
+3.How We Collect Community Feedback
+The users are informed to log their
+tech issues
+on relevant github repositories (i.e. cadano-node for node issues, plutus for plutus issues, dbsync for dbsync issues)
+Also, the comms folks involved in this process check various comms channels daily (or several times a day) to capture unanswered questions, concerns, and not-tech issues. Currently, this feedback ends up on the following
+comms tracking spreadsheet
+managed by
+Rebecca Hopwood (Unlicensed)
+- going forward, we will see if we can get this feedback logged in Jira from the get-go. All the new things on the
+comms tracking spreadsheet
+are triaged on the next triage call and get logged in Jira.
+4.How to Log Chang H/F Community Support Incidents in Jira
+Navigate to the
+CHANG COMMUNITY BOARD
+Jira board
+Click on the “Create” button and fill in/select the following fields:
+Issue type  —> Bug
+Summary   —> type the title of your incident here
+Labels       —->
+always select the “Community_Bugs” label
+Incident Source —> select a source where your incident comes from
+Incident Type —> if it is clear what type, fill it in
+Description   —> describe the incident here
+5.Jira Dropdown Fields to be Filled in/Selected on Community Incident Jira Tickets
+Labels
+Community_Bugs -
+always use this label when reporting comms incidents on Jira
+Incident Type
+Documentation
+Code Issue
+Code Enhancement
+Question
+FUD
+Incident Source
+Discord
+Github
+Reddit
+Twitter
+Telegram
+IOG Slack
+Direct Calls/Messages/Emails
+Severity (Impact) Cardano H/F
+Sev-1 Major
+or
+Sev-2 Sever
+is a big one and we’ll have to start again outside of the Cardano Testnet.
+Sev-3 Moderate
+- we might be able to get away with (i.e. patch release in Cardano Testnet)
+Sev-4 Minor
+- can go into the next planned release
+Sev-5 Trivial -
+goes into the Backlog
+Delivery Team (the team assigned to resolve/handle incidents)
+Adrestia
+Atala
+Cardano Foundation
+Cardano Node
+CF
+Catalyst
+Commercial
+Communications
+Daedalus
+Resident SRE
+DOCS Team
+EAS
+Mamba
+Explorer
+Goguen
+Management
+Midnight
+Researchers
+Tooling
+Yoroi
+TSD
+VOLT
+Governance
+Wallet
+Voltaire
+Light Wallet
+Security
+Legal
+Finance
+HR
+Budget
+DCF
+Vendor
+Community
+Marcomms
+Stakeholders
+Plutus Dapps
+Plutus Core
+Plutus Apps
+DBsync
+Mlabs
+Actions
+Discussion with
+Charles Morgan
+on Governance keys
+Gather downstream PMs/POs to confirm readiness for Chang HF
+Plutus
+Wallet BE
+DBSync
+Explorer/GraphQL/Rosetta
+HW
+Token registry
+LightWallet
+Daedalus
+Crypto
+To be defined asap:
+When is our date for scope freeze?
+When is our date for code freeze?
+Code Audits from initial scope?
+Potential timeline - Key Milestones
+Governance keys
+Final version Plutus interpreter
+Milestone 1
+Ledger spec & implementation done
+11/7/22
+Milestone 2
+Consensus developed
+25/7/22
+Milestone 3
+First Node Integrated  & Tagged
+8/8/22
+Milestone 4
+QA-tested Node on Testnet
+22/8/22
+Milestone 5
+First Node Mainnet Candidate
+1/12/23
+Milestone 6
+DB sync Mainnet Candidate Released
+1/12/23
+Milestone 7
+The rest Mainnet Components Released
+31/3/24
+Milestone 8
+QA end-to-end Completed
+31/5/24
+Milestone 9
+Cardano Testnet H/F
+nn/mm/24
+Milestone 10
+Go/No-Go Call to H/F Cardano Mainnet
+nn/mm/24 (+1mth)
+Milestone 11
+HF Mainnet - epoch YYY
+nn/mm/24 (+2mth)","What is the current process for triaging and resolving Chang H/F community support incidents on the Cardano testnet, and how are they logged and tracked in Jira?","The current process for triaging and resolving Chang H/F community support incidents on the Cardano testnet involves an initial support triage group consisting of Engineering (Kevin Hammond) and Comms (Leonard Hegarty) who update asynchronously or in-person every workday to review all new untriaged community support incidents, set severity (impact) on Jira tickets, figure out the delivery team and assignee who will be driving a particular Jira ticket to its resolution, and review the progress on all previously triaged open tickets. Community support incidents are logged in Jira by navigating to the CHANG COMMUNITY BOARD Jira board, clicking on the “Create” button, and filling in/selecting the following fields: Issue type (Bug), Summary (title of the incident), Labels (Community_Bugs), Incident Source (source where the incident comes from), Incident Type (if it is clear what type), Description (description of the incident), and Severity (Impact) Cardano H/F (Sev-1 Major, Sev-2 Severe, Sev-3 Moderate, Sev-4 Minor, or Sev-5 Trivial). Jira dropdown fields to be filled in/selected on community incident Jira tickets include Labels (Community_Bugs), Incident Type (Documentation, Code Issue, Code Enhancement, Question, FUD), Incident Source (Discord, Github, Reddit, Twitter, Telegram, IOG Slack, Direct Calls/Messages/Emails), Severity (Impact) Cardano H/F (Sev-1 Major, Sev-2 Severe, Sev-3 Moderate, Sev-4 Minor, or Sev-5 Trivial), Delivery Team (the team assigned to resolve/handle incidents), and Actions (Discussion with Charles Morgan on Governance keys, Gather downstream PMs/POs to confirm readiness for Chang HF, etc.)."
